@@ -1,0 +1,10 @@
+.linkbox {
+	display: flex;
+	align-items:center;
+	justify-content: center;
+	
+}
+
+.linkbox img{
+	margin:7px;
+}
