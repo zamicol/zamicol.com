@@ -16,6 +16,7 @@
 	<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 
 	<!-- ASCII Math -->
+	<!-- Equations are not just in mathjax, but ascii math. -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=AM_CHTML"></script>
 
 
@@ -73,41 +74,80 @@
 
 
 			<section>
-				<h6 class="title is-6">Lorentz Transformation</h6>
+				<h6 class="title is-3"><a href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz Transformation</a></h6>
+`gamma = 1/root()(1-v^2/c^2)`
+
+
+
+				<form name=lor>
+					Stationary Frame
+					<br>
+					Time: <input type=number name=timeIn value="1">
+					<br>
+					Space x: <input type=number name=xIn value="1">
+					<br>
+					<br>
+					β:
+					<input id="lor_beta_value" type=number name="beta"> <input id="transformButton" type=button value="Transform" onClick=TransForm();>
+
+
+					<div class="slidecontainer">
+						<input type="range" min="0" max="1" value=".5" step="0.001" class="slider" id="lor_beta">
+					</div>
+
+
+
+					<br>
+					Moving Frame
+					<br>
+					Time':<input type=text name=timeOut>
+					<br>
+					Space x':<input type=text name=xOut>
+				</form>
+			</section>
+
+
+			<section>
+				<h6 class="title is-3">Escape Velocity</h6>
+				`"Escape Velocity" = root()((2GM)/r)`
+			</section>
+			<section>
+				<h6 class="title is-3"><a href="https://en.wikipedia.org/wiki/Schwarzschild_radius">Schwarzschild radius</a></h6>
+				`"Schwarzschild radius" = (2GM)/c^2`
+			</section>
+
+
+			<section>
+				<h6 class="title is-3"><a href="https://en.wikipedia.org/wiki/Schwarzschild_radius#In_gravitational_time_dilation">Gravitational Time Dilation</a></h6>
+				`"dilated time" / "observer time" = root()(1-(r_s)/r)`
 			</section>
 
 
 
-			<form name=lor>
-				Stationary Frame
-				<br>
-				Time: <input type=number name=timeIn value="1">
-				<br>
-				Space x: <input type=number name=xIn value="1">
-				<br>
-				<br>
-				β:
-				<input id="lor_beta_value" type=number name="beta"> <input id="transformButton" type=button value="Transform" onClick=TransForm();>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+			<p> TODO:</p>
 
-				<div class="slidecontainer">
-					<input type="range" min="0" max="1" value=".5" step="0.001"class="slider" id="lor_beta">
-				</div>
-				
-
-
-				<br>
-				Moving Frame
-				<br>
-				Time':<input type=text name=timeOut>
-				<br>
-				Space x':<input type=text name=xOut>
-			</form>
+			<ul>
+				<li>Gravitational Redshift Calculator (give mass, r, distance and get redshift)</li>
+				<li>Below surface gravitational time dilation (give m, r, and distance get t)</li>
+				<li>Above surface gravitational time dilation (give m, r, and distance get t)</li>
+			</ul>
 
 		</div>
 		<!--End container -->
 	</div>
 	<!--End wrapper -->
+
+
+
+
+
 </body>
 
 </html>
