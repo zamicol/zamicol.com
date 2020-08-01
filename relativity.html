@@ -26,18 +26,16 @@
 </head>
 
 <body>
-	<div class="wrapper">
-		<section class="section">
-			<div class="container">
-				<p class="title is-1"><a href="index.html">Zamicol's</a> Relativity Playground</p>
-				<!--<p class="subtitle is-3">Special and General Relativity</p>-->
+	<section class="section">
+		<div class="container">
+			<p class="title is-1"><a href="index.html">Zamicol's</a> Relativity Playground</p>
+		</div>
+	</section>
 
-			</div>
-		</section>
-
-
+	<section>
 		<div class="container">
 			<table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
+
 				<thead>
 					<tr>
 						<th>Name</th>
@@ -45,84 +43,72 @@
 						<th>Value</th>
 					</tr>
 				</thead>
-				<tfoot>
 
+				<tfoot>
 				</tfoot>
+
 				<tbody>
 					<tr>
 						<th>Gravitational Constant</th>
 						<td><strong>G</strong></td>
 						<td>`6.67408 × 10^-11 m^3 kg^-1 s^-2`</td>
-
 					</tr>
+
 					<tr>
 						<th>Speed of Light</th>
 						<td><strong>c</strong></td>
 						<td>299,792,458 m/s</td>
-
 					</tr>
+
 					<tr>
 						<th>Plank Constant</th>
 						<td><strong>h</strong></td>
 						<td>`6.62607015 × 10^-34 J⋅s`</td>
 
-
 					</tr>
 				</tbody>
 			</table>
+		</div>
+	</section>
+	<div class="container">
+		<section class="section">
 
 
-			<section>
-				<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz Transformation</a></h2>
-				`gamma = 1/root()(1-v^2/c^2)`
-
-
-
-				<form name=lor>
-					Stationary Frame
-					<br>
-					Time: <input type=number name=timeIn value="1">
-					<br>
-					Space x: <input type=number name=xIn value="1">
-					<br>
-					<br>
-					β:
-					<input id="lor_beta_value" type=number name="beta"> <input id="transformButton" type=button value="Transform" onClick=TransForm();>
-
-
-					<div class="slidecontainer">
-						<input type="range" min="0" max="1" value=".5" step="0.001" class="slider" id="lor_beta">
-					</div>
+			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz Transformation</a> and <a href="https://en.wikipedia.org/wiki/Time_dilation#Velocity_time_dilation">Velocity Time Dilation</a></h2>
+			`gamma = 1/root()(1-v^2/c^2)`
 
 
 
-					<br>
-					Moving Frame
-					<br>
-					Time':<input type=text name=timeOut>
-					<br>
-					Space x':<input type=text name=xOut>
-				</form>
-			</section>
+			<form name=lor>
+				Stationary Frame
+				<br>
+				Time: <input type=number name=timeIn value="1">
+				<br>
+				Space x: <input type=number name=xIn value="1">
+				<br>
+				<br>
+				β:
+				<input id="lor_beta_value" type=number name="beta"> <input id="transformButton" type=button value="Transform" onClick=TransForm();>
 
 
-			<section>
-				<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Escape_velocity">Escape Velocity</a></h2>
-				`"Escape Velocity" = root()((2GM)/r)`
-			</section>
-
-			<section>
-				<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Schwarzschild_radius">Schwarzschild radius</a></h2>
-				`"Schwarzschild radius" = (2GM)/c^2`
-			</section>
+				<div class="slidecontainer">
+					<input type="range" min="0" max="1" value=".5" step="0.001" class="slider" id="lor_beta">
+				</div>
 
 
-			<section>
-				<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Schwarzschild_radius#In_gravitational_time_dilation">Gravitational Time Dilation</a></h2>
-				`"dilated time" / "observer time" = root()(1-(r_s)/r)`
-			</section>
 
-			<section>
+				<br>
+				Moving Frame
+				<br>
+				Time':<input type=text name=timeOut>
+				<br>
+				Space x':<input type=text name=xOut>
+			</form>
+
+
+
+</section>
+			<section class="section">
 				<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Einstein_field_equations">Einstein Field Equations (EFE)</a></h2>
 				<p>`R_(munu) - 1/2Rg_(munu) + Lamdag_(munu) = (8piG)/c^4T_(munu)`</p>
 				<p>Einstein gravitational constant: `kappa = (8piG)/c^4`</p>
@@ -130,14 +116,35 @@
 
 
 
-			<section>
+			<section class="section">
+				<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Schwarzschild_radius#In_gravitational_time_dilation">Gravitational Time Dilation</a></h2>
+				`"dilated time" / "observer time" = root()(1-(r_s)/r)`
+			</section>
+
+
+
+			<section class="section">
+				<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Escape_velocity">Escape Velocity</a></h2>
+				`"Escape Velocity" = root()((2GM)/r)`
+			</section>
+
+
+
+			<section class="section">
+				<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Schwarzschild_radius">Schwarzschild radius</a></h2>
+				`"Schwarzschild radius" = (2GM)/c^2`
+			</section>
+
+
+
+			<section class="section">
 				<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Bekenstein_bound">Bekenstein bound</a></h2>
 				`S ge (2pikRE)/(ℏc)`
 			</section>
 
 
 
-			<section>
+			<section class="section">
 				<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Shanon Entropy</a></h2>
 				`H(X) = -sum_(i=1)^n P(x_i)logP(x_i)`
 			</section>
@@ -150,21 +157,55 @@
 			<br />
 			<br />
 
-
-			<h1 class="title is-2">Important Concepts</h1>
-			<div class="content">
-				<ul>
-					<li><a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Information/Entropy/Shannon Entropy</a></li>
-					See also:
+			<section>
+				<h1 class="title is-2">Important Concepts</h1>
+				<div class="content">
 					<ul>
-						<li><a href="https://en.wikipedia.org/wiki/Information_theory">Information theory</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Information/Entropy/Shannon Entropy</a></li>
+						See also:
+						<ul>
+							<li><a href="https://en.wikipedia.org/wiki/Information_theory">Information theory</a></li>
+						</ul>
+						<li><a href="https://en.wikipedia.org/wiki/Minkowski_space">Minkowshki Space</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/Gravitational_potential">Gravitational Potential</a></li>
+						<li><a href="https://en.wikipedia.org/wiki/Pauli_exclusion_principle">Pauli exclusion principle</a></li>
+
+
+
+
+
+
 					</ul>
-					<li><a href="https://en.wikipedia.org/wiki/Minkowski_space">Minkowshki Space</a></li>
-				</ul>
-			</div>
+				</div>
 
 
+				<h1 class="title is-2">Major Interesting or Surprising Things</h1>
+				<div class="content">
+					<ul>
+						<li><a href="https://en.wikipedia.org/wiki/Casimir_effect">Casimir effect</a></li>
 
+
+					</ul>
+				</div>
+
+				<h1 class="title is-2">Minor Interesting or Surprising Things</h1>
+				<div class="content">
+					<ul>
+						<li><a href="https://en.wikipedia.org/wiki/Einstein–Hilbert">Einstein–Hilbert action</a></li>
+					</ul>
+				</div>
+
+				<h1 class="title is-2">Learning Resources</h1>
+				<div class="content">
+					<ul>
+						<li><a href="https://en.wikiversity.org/wiki/Theory_of_relativity">Theory of Relativity Wikiversity</a></li>
+						<li><a href="https://en.wikiversity.org/wiki/Quantum_mechanics">Quantum Mechanics Wikiversity</a></li>
+						<li>Partial theory of quantum gravity: "<a href="https://arxiv.org/abs/gr-qc/0311082">Quantum Gravity in Everyday Life: General Relativity as an Effective Field Theory</a>"</li>
+
+
+					</ul>
+				</div>
+			</section>
 
 			<br />
 			<br />
@@ -183,10 +224,8 @@
 					</ul>
 				</div>
 			</div>
-		</div>
-		<!--End container -->
+			<!--End container -->
 	</div>
-	<!--End wrapper -->
 
 
 
