@@ -18,8 +18,8 @@ function Transform() {
 	var cdt = lr.elements["timeIn"].value;
 	var dx = lr.elements["xIn"].value;
 
-	lr.elements["timeOut"].value = gam * cdt - gam * bet * dx;
-	lr.elements["xOut"].value = -bet * gam * cdt + gam * dx;
+	lr.elements["timeOut"].value = cdt / bet;
+	lr.elements["xOut"].value = dx / bet;
 }
 
 function Slider() {
