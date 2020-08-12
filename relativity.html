@@ -12,7 +12,6 @@
 	<link rel="stylesheet" href="assets/css/slider.css">
 
 
-
 	<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 
 	<!-- ASCII Math -->
@@ -22,7 +21,7 @@
 
 
 	<!-- Main js -->
-	<script defer src="relativity.js"></script>
+	<script defer src="assets/js/relativity.js"></script>
 </head>
 
 <body>
@@ -74,22 +73,40 @@
 		<section class="section">
 
 
-			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz Transformation</a> and <a href="https://en.wikipedia.org/wiki/Time_dilation#Velocity_time_dilation">Velocity Time Dilation</a></h2>
-			`gamma = 1/root()(1-v^2/c^2)`<br />
-			`"dilated time" = "observer time"/root()(1-v^2/c^2)`
+			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Special_relativity">Special Relativity</a>, <a href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz Transformation</a> and <a href="https://en.wikipedia.org/wiki/Time_dilation#Velocity_time_dilation">Velocity Time Dilation</a></h2>
 
+			<div class="box">
+				`gamma = 1/root()(1-v^2/c^2)`<br />
+				<br />
+			</div>
+			<div class="box">
+				`"dilated time" = "observer time"/root()(1-v^2/c^2)`
+			</div>
+			<div class="box">
+				`"dilated length" = "observer length"/root()(1-v^2/c^2)`
+			</div>
+			<div class="box">
+				`"total system energy (relativistic mass)" = "observer mass"/root()(1-v^2/c^2)`
+			</div>
+			<div class="box">
+				`"gravity emitted" = "observer gravity"/root()(1-v^2/c^2)`
+			</div>
 
 
 			<form name=lor>
 				Stationary Frame
 				<br>
-				Time: <input type=number name=timeIn value="1">
+				Time: <input type=number name="timeIn" value="1">
 				<br>
-				Space x: <input type=number name=xIn value="1">
+				Space x (length): <input type=number name="xIn" value="1">
+				<br>
+				Mass: <input type=number name="mIn" value="1">
+				<br>
+				Gravity: <input type=number name="gIn" value="1">
 				<br>
 				<br>
 				β:
-				<input id="lor_beta_value" type=number name="beta"> <input id="transformButton" type=button value="Transform" onClick=TransForm();>
+				<input id="lor_beta_value" type=number name="beta"> <input id="transformButton" type=button value="Transform">
 
 
 				<div class="slidecontainer">
@@ -101,9 +118,15 @@
 				<br>
 				Moving Frame
 				<br>
-				Time':<input type=text name=timeOut>
+				γ (Gamma): <input type=text name="gamma" value="">
 				<br>
-				Space x':<input type=text name=xOut>
+				Time':<input type=number name="timeOut">
+				<br>
+				Space x' (length'):<input type=number name="xOut">
+				<br>
+				Total System Energy (Relativistic Mass):<input type=number name="mOut">
+				<br>
+				Gravity Emitted:<input type=number name="gOut">
 			</form>
 
 
@@ -111,9 +134,16 @@
 		</section>
 		<section class="section">
 			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Einstein_field_equations">Einstein Field Equations (EFE)</a></h2>
+
+			<div class="box">
 			<p>`R_(munu) - 1/2Rg_(munu) + Lamdag_(munu) = (8piG)/c^4T_(munu)`</p>
+			</div>
+			<div class="box">
 			<p>Einstein gravitational constant: `kappa = (8piG)/c^4`</p>
+			</div>
+			<div class="box">
 			<p>Newton: `g = (GM)/r^2`</p>
+			</div>
 		</section>
 
 
@@ -203,12 +233,18 @@
 			<h1 class="title is-2">Learning Resources</h1>
 			<div class="content">
 				<ul>
-
 					<li><a href="https://en.wikipedia.org/wiki/Tests_of_general_relativity">Tests of general relativity</a></li>
+					<li><a href="https://www.youtube.com/watch?v=NLhQ924Bcj8&list=PLX2gX-ftPVXWyvfXnDFRQWcg1KqhGiaQK">Michel van Biezen GR videos (Conceptual, very little math)</a></li>
+					<li><a href="https://www.feynmanlectures.caltech.edu/index.html">Feynman Lectures</a></li>
+				</ul>
+			</div>
+
+			<h1 class="title is-2">Minor Learning Resources</h1>
+			<div class="content">
+				<ul>
 					<li><a href="https://en.wikiversity.org/wiki/Theory_of_relativity">Theory of Relativity Wikiversity</a></li>
 					<li><a href="https://en.wikiversity.org/wiki/Quantum_mechanics">Quantum Mechanics Wikiversity</a></li>
 					<li>Partial theory of quantum gravity: "<a href="https://arxiv.org/abs/gr-qc/0311082">Quantum Gravity in Everyday Life: General Relativity as an Effective Field Theory</a>"</li>
-<li><a href="https://www.feynmanlectures.caltech.edu/index.html">Feynman Lectures</a></li>
 
 
 				</ul>
