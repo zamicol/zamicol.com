@@ -10,21 +10,31 @@ document.addEventListener("DOMContentLoaded", function(event) {
 function LorentzTransform() {
 	var lr = document.forms['lor'];
 
-	var bet = lr.elements["beta"].value;
+	var beta = lr.elements["beta"].value;
 
-	//console.log("beta: " + bet);
-	var gam = 1 / Math.sqrt(1 - Math.pow(bet, 2));
 
-	var dt = lr.elements["timeIn"].value;
+	var gam = 1 / Math.sqrt(1 - Math.pow(beta, 2));
+
+	var dt = lr.elements["tIn"].value;
 	var dx = lr.elements["xIn"].value;
 	var dm = lr.elements["mIn"].value;
 	var dg = lr.elements["gIn"].value;
 
+
+	lr.elements["vIn"].value = 299792.458 * beta;
 	lr.elements["gamma"].value = gam;
-	lr.elements["timeOut"].value = dt * bet;
-	lr.elements["xOut"].value = dx * bet;
-	lr.elements["mOut"].value = dm * bet;
-	lr.elements["gOut"].value = dg * bet;
+
+	// Frame 1
+	document.querySelector(".frame1 .tOut").value = dt * gam;
+	document.querySelector(".frame1 .xOut").value = dx * gam;
+	document.querySelector(".frame1 .mOut").value = dm * gam;
+	document.querySelector(".frame1 .gOut").value = dg * gam;
+
+	// Frame 2
+	document.querySelector(".frame2 .tOut").value = dt / gam;
+	document.querySelector(".frame2 .xOut").value = dx / gam;
+	document.querySelector(".frame2 .mOut").value = dm / gam;
+	document.querySelector(".frame2 .gOut").value = dg / gam;
 }
 
 function LorentzSlider() {

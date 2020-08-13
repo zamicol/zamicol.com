@@ -73,62 +73,108 @@
 		<section class="section">
 
 
-			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Special_relativity">Special Relativity</a>, <a href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz Transformation</a> and <a href="https://en.wikipedia.org/wiki/Time_dilation#Velocity_time_dilation">Velocity Time Dilation</a></h2>
-
-			<div class="box">
-				`gamma = 1/root()(1-v^2/c^2)`<br />
-				<br />
-			</div>
-			<div class="box">
-				`"dilated time" = "observer time"/root()(1-v^2/c^2)`
-			</div>
-			<div class="box">
-				`"dilated length" = "observer length"/root()(1-v^2/c^2)`
-			</div>
-			<div class="box">
-				`"total system energy (relativistic mass)" = "observer mass"/root()(1-v^2/c^2)`
-			</div>
-			<div class="box">
-				`"gravity emitted" = "observer gravity"/root()(1-v^2/c^2)`
-			</div>
+			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Special_relativity">Special Relativity</a>,
+				<a href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz Transformation</a> and
+				<a href="https://en.wikipedia.org/wiki/Time_dilation#Velocity_time_dilation">Velocity Time Dilation</a></h2>
 
 
-			<form name=lor>
-				Stationary Frame
-				<br>
-				Time: <input type=number name="timeIn" value="1">
-				<br>
-				Space x (length): <input type=number name="xIn" value="1">
-				<br>
-				Mass: <input type=number name="mIn" value="1">
-				<br>
-				Gravity: <input type=number name="gIn" value="1">
-				<br>
-				<br>
-				β:
-				<input id="lor_beta_value" type=number name="beta"> <input id="transformButton" type=button value="Transform">
-
-
-				<div class="slidecontainer">
-					<input type="range" min="0" max="1" value=".5" step="0.001" class="slider" id="lor_beta">
+			<div class="columns">
+				<div class="column">
+					<div class="box">
+						`"dilated time" = "observer time"/root()(1-v^2/c^2)`
+					</div>
 				</div>
+				<div class="column">
+					<div class="box">
+						`"dilated length" = "observer length"/root()(1-v^2/c^2)`
+					</div>
+				</div>
+				<div class="column">
+					<div class="box">
+						`"Energy (relativistic mass)" = "observer mass"/root()(1-v^2/c^2)`
+					</div>
+				</div>
+				<div class="column">
+					<div class="box">
+						`"gravity emitted" = "observer gravity"/root()(1-v^2/c^2)`
+					</div>
+				</div>
+			</div>
+
+			<div class="columns">
+				<div class="column">
+					<div class="box">
+						`gamma = 1/root()(1-v^2/c^2)`<br />
+					</div>
+				</div>
+				<div class="column">
+					<div class="box">
+						`"relativistic mass" = root()(E^2 - (p^2c^2)/c^2`
+					</div>
+				</div>
+				<div class="column">
+					<div class="box">
+						`"rest mass, mass energy equivelence (E)" = mc^2`
+					</div>
+				</div>
+			</div>
+
+
+			<div class="box">
+				<form name="lor">
+					<strong>Frame</strong>
+					<br>
+					Time: <input type=text name="tIn" value="1">
+					<br>
+					Space x (length): <input type=text name="xIn" value="1">
+					<br>
+					Mass: <input type=text name="mIn" value="1">
+					<br>
+					Gravity: <input type=text name="gIn" value="1">
+					<br>
+					<br>
+					β:
+					<input id="lor_beta_value" type=text name="beta"> <input id="transformButton" type=button value="Transform">
+					&nbsp; Δ Velocity in km/s: <input type=text name="vIn" value="" disabled>
+					&nbsp;&nbsp;&nbsp; γ (Gamma): <input type=text name="gamma" value="" disabled>
+
+					<div class="slidecontainer">
+						<input type="range" min="0" max="1" value=".5" step="0.001" class="slider" id="lor_beta">
+					</div>
+					<br>
 
 
 
-				<br>
-				Moving Frame
-				<br>
-				γ (Gamma): <input type=text name="gamma" value="">
-				<br>
-				Time':<input type=number name="timeOut">
-				<br>
-				Space x' (length'):<input type=number name="xOut">
-				<br>
-				Total System Energy (Relativistic Mass):<input type=number name="mOut">
-				<br>
-				Gravity Emitted:<input type=number name="gOut">
-			</form>
-
+					<div class="columns">
+						<div class="column ">
+							<div class="box frame1">
+								<strong>Frame 1</strong>
+								<br />
+								Time':<input type=text class="tOut" disabled>
+								<br>
+								Space x' (length'):<input type=text class="xOut" disabled>
+								<br>
+								Total System Energy (Relativistic Mass):<input type=text class="mOut" disabled>
+								<br>
+								Gravity Emitted:<input type=text class="gOut" disabled>
+							</div>
+						</div>
+						<div class="column">
+							<div class="box frame2">
+								<strong>Frame 2</strong>
+								<br />
+								Time':<input type=text class="tOut" disabled>
+								<br>
+								Space x' (length'):<input type=text class="xOut" disabled>
+								<br>
+								Total System Energy (Relativistic Mass):<input type=text class="mOut" disabled>
+								<br>
+								Gravity Emitted:<input type=text class="gOut" disabled>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
 
 
 		</section>
@@ -136,13 +182,13 @@
 			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Einstein_field_equations">Einstein Field Equations (EFE)</a></h2>
 
 			<div class="box">
-			<p>`R_(munu) - 1/2Rg_(munu) + Lamdag_(munu) = (8piG)/c^4T_(munu)`</p>
+				`R_(munu) - 1/2Rg_(munu) + Lamdag_(munu) = (8piG)/c^4T_(munu)`
 			</div>
 			<div class="box">
-			<p>Einstein gravitational constant: `kappa = (8piG)/c^4`</p>
+				Einstein gravitational constant: `kappa = (8piG)/c^4`
 			</div>
 			<div class="box">
-			<p>Newton: `g = (GM)/r^2`</p>
+				Newton: `g = (GM)/r^2`
 			</div>
 		</section>
 
@@ -150,38 +196,45 @@
 
 		<section class="section">
 			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Schwarzschild_radius#In_gravitational_time_dilation">Gravitational Time Dilation</a></h2>
-			<p>`"dilated time" = "observer time"root()(1-(2GM)/(rc^2))`</p>
-
-
-
+			<div class="box">
+				<p>`"dilated time" = "observer time"root()(1-(2GM)/(rc^2))`</p>
+			</div>
 		</section>
 
 
 
 		<section class="section">
 			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Escape_velocity">Escape Velocity</a></h2>
-			`"Escape Velocity" = root()((2GM)/r)`
+			<div class="box">
+				`"Escape Velocity" = root()((2GM)/r)`
+			</div>
 		</section>
 
 
 
 		<section class="section">
 			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Schwarzschild_radius">Schwarzschild radius</a></h2>
-			`"Schwarzschild radius" = (2GM)/c^2`
+			<div class="box">
+				`"Schwarzschild radius" = (2GM)/c^2`
+			</div>
 		</section>
 
 
 
 		<section class="section">
 			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Bekenstein_bound">Bekenstein bound</a></h2>
-			`S ge (2pikRE)/(ℏc)`
+			<div class="box">
+				`S ge (2pikRE)/(ℏc)`
+			</div>
 		</section>
 
 
 
 		<section class="section">
 			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Shanon Entropy</a></h2>
-			`H(X) = -sum_(i=1)^n P(x_i)logP(x_i)`
+			<div class="box">
+				`H(X) = -sum_(i=1)^n P(x_i)logP(x_i)`
+			</div>
 		</section>
 
 
@@ -217,7 +270,11 @@
 			<h1 class="title is-2">Major Interesting or Surprising Things</h1>
 			<div class="content">
 				<ul>
+					<li><a href="https://en.wikipedia.org/wiki/Accelerating_expansion_of_the_universe">Accelerating expansion of the universe</a></li>
+					<li><a href="https://en.wikipedia.org/wiki/Galaxy_rotation_curve">Galaxy rotation curve</a></li>
 					<li><a href="https://en.wikipedia.org/wiki/Casimir_effect">Casimir effect</a></li>
+					<li><a href="https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics#Cosmology_and_general_relativity">List of unsolved problems in physics</a></li>
+
 
 
 				</ul>
@@ -245,6 +302,10 @@
 					<li><a href="https://en.wikiversity.org/wiki/Theory_of_relativity">Theory of Relativity Wikiversity</a></li>
 					<li><a href="https://en.wikiversity.org/wiki/Quantum_mechanics">Quantum Mechanics Wikiversity</a></li>
 					<li>Partial theory of quantum gravity: "<a href="https://arxiv.org/abs/gr-qc/0311082">Quantum Gravity in Everyday Life: General Relativity as an Effective Field Theory</a>"</li>
+					<li><a href="https://www.sciencedirect.com/topics/mathematics/relativistic-mass">Relativistic Mass</a></li>
+
+					<li><a href="https://en.wikipedia.org/wiki/Galaxy_rotation_curve">Galaxy Rotation Curve</a></li>
+
 
 
 				</ul>
