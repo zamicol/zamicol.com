@@ -57,23 +57,27 @@ function GravityTransform() {
 	console.log(time + length + radius + mass);
 	console.log((2 * G * mass));
 	console.log(radius * Math.pow(C, 2));
-	console.log(( (2 * G * mass) / radius * Math.pow(C, 2)));
+	console.log(((2 * G * mass) / radius * Math.pow(C, 2)));
 
 
-	
-	console.log(1 - ( (2 * G * mass) / radius * Math.pow(C, 2)));
-	console.log(Math.sqrt(1 - ( (2 * G * mass) / radius * Math.pow(C, 2) )));
 
-dt = time * Math.sqrt(1 - ( (2 * G * mass) / radius * Math.pow(C, 2) ));
-	if (Math.sign(dt) == -1)
-	{
+	console.log(1 - ((2 * G * mass) / radius * Math.pow(C, 2)));
+	console.log(Math.sqrt(1 - ((2 * G * mass) / radius * Math.pow(C, 2))));
+
+	var dt = time * Math.sqrt(1 - ((2 * G * mass) / radius * Math.pow(C, 2)));
+	var dg = "";
+	var esc = "";
+	console.log(dt);
+	if (Math.sign(dt) == -1 || dt.toString() == "NaN") {
 		dt = "Black Hole";
+		dg = "Black Hole";
+		esc = "Black Hole";
 	}
 
 
-	var dt = dt;
 	document.querySelector(".gravityFrame .tOut").textContent = dt.toString();
-
+	document.querySelector(".gravityFrame .gOut").textContent = dg.toString();
+	document.querySelector(".gravityFrame .escOut").textContent = dg.toString();
 }
 
 
