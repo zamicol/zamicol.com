@@ -1,9 +1,15 @@
 "use strict";
 
+const C = 299792.458;
+const G = .0000000000667408;
+
 document.addEventListener("DOMContentLoaded", function(event) {
 	LorentzSlider();
 	document.querySelector("#transformButton").addEventListener("click", function() {
 		LorentzTransform();
+	});
+	document.querySelector("#gravityTransform").addEventListener("click", function() {
+		GravityTransform();
 	});
 });
 
@@ -21,7 +27,7 @@ function LorentzTransform() {
 	var dg = lr.elements["gIn"].value;
 
 
-	lr.elements["vIn"].value = 299792.458 * beta;
+	lr.elements["vIn"].value = C * beta;
 	lr.elements["gamma"].value = gam;
 
 	// Frame 1
@@ -36,6 +42,45 @@ function LorentzTransform() {
 	document.querySelector(".frame2 .mOut").value = dm / gam;
 	document.querySelector(".frame2 .gOut").value = dg / gam;
 }
+
+
+
+function GravityTransform() {
+	var lr = document.forms['gravity'];
+
+
+	var time = lr.elements["tIn"].value;
+	var length = lr.elements["xIn"].value;
+	var radius = lr.elements["rIn"].value;
+	var mass = lr.elements["mIn"].value;
+
+	console.log(time + length + radius + mass);
+	console.log((2 * G * mass));
+	console.log(radius * Math.pow(C, 2));
+	console.log(( (2 * G * mass) / radius * Math.pow(C, 2)));
+
+
+	
+	console.log(1 - ( (2 * G * mass) / radius * Math.pow(C, 2)));
+	console.log(Math.sqrt(1 - ( (2 * G * mass) / radius * Math.pow(C, 2) )));
+
+dt = time * Math.sqrt(1 - ( (2 * G * mass) / radius * Math.pow(C, 2) ));
+	if (Math.sign(dt) == -1)
+	{
+		dt = "Black Hole";
+	}
+
+
+	var dt = dt;
+	document.querySelector(".gravityFrame .tOut").textContent = dt.toString();
+
+}
+
+
+
+
+
+
 
 function LorentzSlider() {
 	var slider = document.getElementById("lor_beta");

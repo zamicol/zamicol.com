@@ -60,7 +60,7 @@
 					</tr>
 
 					<tr>
-						<th>Plank Constant</th>
+						<th><a href="https://en.wikipedia.org/wiki/Planck_constant">Plank Constant</a></th>
 						<td><strong>h</strong></td>
 						<td>`6.62607015 × 10^-34 J⋅s`</td>
 
@@ -74,7 +74,7 @@
 
 
 			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Special_relativity">Special Relativity</a>,
-				<a href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz Transformation</a> and
+				<a href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz Transformation</a>, and
 				<a href="https://en.wikipedia.org/wiki/Time_dilation#Velocity_time_dilation">Velocity Time Dilation</a></h2>
 
 
@@ -130,11 +130,11 @@
 				<form name="lor">
 					<strong>Frame</strong>
 					<br>
-					Time: <input type=text name="tIn" value="1">
+					Time: &nbsp;&nbsp;&nbsp;&nbsp;<input type=text name="tIn" value="1">
 					<br>
-					Space x (length): <input type=text name="xIn" value="1">
+					Length: <input type=text name="xIn" value="1">
 					<br>
-					Mass: <input type=text name="mIn" value="1">
+					Energy: <input type=text name="mIn" value="1">
 					<br>
 					Gravity: <input type=text name="gIn" value="1">
 					<br>
@@ -188,67 +188,146 @@
 					</div>
 				</form>
 			</div>
-
-
 		</section>
-		<section class="section">
-			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Einstein_field_equations">Einstein Field Equations (EFE)</a></h2>
 
-			<div class="box">
-				`R_(munu) - 1/2Rg_(munu) + Lamdag_(munu) = (8piG)/c^4T_(munu)`
-			</div>
-			<div class="box">
-				Einstein gravitational constant: `kappa = (8piG)/c^4`
-			</div>
-			<div class="box">
-				Newton: `g = (GM)/r^2`
-			</div>
-		</section>
+
+
 
 
 
 		<section class="section">
-			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Schwarzschild_radius#In_gravitational_time_dilation">Gravitational Time Dilation</a></h2>
+			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/General_relativity">General relativity</a>,
+				<a href="https://en.wikipedia.org/wiki/Schwarzschild_radius#In_gravitational_time_dilation">Gravitational Time Dilation</a>,
+				<a href="https://en.wikipedia.org/wiki/Escape_velocity">Escape Velocity</a>, and
+				<a href="https://en.wikipedia.org/wiki/Schwarzschild_radius">Schwarzschild radius</a>
+			</h2>
+
+			<div class="columns">
+				<div class="column">
+					<div class="box">
+						`R_(munu) - 1/2Rg_(munu) + Lamdag_(munu) = (8piG)/c^4T_(munu)`
+					</div>
+				</div>
+				<div class="column">
+					<div class="box">
+						Einstein gravitational constant: `kappa = (8piG)/c^4`
+					</div>
+				</div>
+				<div class="column">
+					<div class="box">
+						Newton: `g = (GM)/r^2`
+					</div>
+				</div>
+				<div class="column">
+					<div class="box">
+						`"dilated time" = "observer time"root()(1-(2GM)/(rc^2))`
+					</div>
+				</div>
+			</div>
+			<div class="columns">
+				<div class="column">
+					<div class="box">
+						`"Escape Velocity" = root()((2GM)/r)`
+					</div>
+				</div>
+				<div class="column ">
+					<div class="box">
+						`"Schwarzschild radius" = (2GM)/c^2`
+					</div>
+				</div>
+			</div>
+
+
+
+
+
+
 			<div class="box">
-				<p>`"dilated time" = "observer time"root()(1-(2GM)/(rc^2))`</p>
+				<h2 class="title is-4">General Relativity Playground: Gravitational Time Dilation</h2>
+
+
+
+
+
+				<form name="gravity">
+					<strong>Outside the gravity field</strong>
+					<br>
+					Time: &nbsp;&nbsp;&nbsp;&nbsp;<input type=text name="tIn" value="1"> in seconds
+					<br>
+					Length: <input type=text name="xIn" value="1"> in meters
+					<br />
+					<br />
+
+					<strong>Object</strong>
+					<br />
+					Radius: <input type=text name="rIn" value="1"> <input id="gravityTransform" type=button value="Transform">
+					<br />
+					Mass: &nbsp;&nbsp;&nbsp;<input type=text name="mIn" value="1">
+
+
+
+					<div class="slidecontainer">
+						<input type="range" min="0" max="1" value=".5" step="0.001" class="slider" name="massSlider">
+					</div>
+					<div class="columns help is-mobile">
+						<div class="column">
+							Light
+						</div>
+						<div class="column has-text-right">
+							Heavey
+						</div>
+					</div>
+
+
+
+					<div class="columns">
+						<div class="column ">
+							<div class="box gravityFrame">
+								<strong>Inside the gravity field</strong>
+								<br />
+								Time': &nbsp;&nbsp;&nbsp;<span class="tOut">1</span>
+								<br>
+								Gravity: <span class="gOut">1</span>
+							</div>
+						</div>
+
+					</div>
+				</form>
+
+
+
+
+
+
+
 			</div>
 		</section>
+
+
+
+
 
 
 
 		<section class="section">
-			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Escape_velocity">Escape Velocity</a></h2>
-			<div class="box">
-				`"Escape Velocity" = root()((2GM)/r)`
+			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Bekenstein_bound">Bekenstein bound</a> and <a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Shanon Entropy</a></h2>
+
+			<div class="columns">
+				<div class="column">
+					<div class="box">
+						`S ge (2pikRE)/(ℏc)`
+					</div>
+				</div>
+				<div class="column ">
+					<div class="box">
+						`H(X) = -sum_(i=1)^n P(x_i)logP(x_i)`
+					</div>
+				</div>
 			</div>
 		</section>
 
 
 
-		<section class="section">
-			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Schwarzschild_radius">Schwarzschild radius</a></h2>
-			<div class="box">
-				`"Schwarzschild radius" = (2GM)/c^2`
-			</div>
-		</section>
-
-
-
-		<section class="section">
-			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Bekenstein_bound">Bekenstein bound</a></h2>
-			<div class="box">
-				`S ge (2pikRE)/(ℏc)`
-			</div>
-		</section>
-
-
-
-		<section class="section">
-			<h2 class="title is-3"><a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Shanon Entropy</a></h2>
-			<div class="box">
-				`H(X) = -sum_(i=1)^n P(x_i)logP(x_i)`
-			</div>
-		</section>
 
 
 		<br />
@@ -297,6 +376,8 @@
 			<div class="content">
 				<ul>
 					<li><a href="https://en.wikipedia.org/wiki/Einstein–Hilbert">Einstein–Hilbert action</a></li>
+					<li><a href="https://en.wikipedia.org/wiki/Shapiro_time_delay">Shapiro time delay</a></li>
+
 				</ul>
 			</div>
 
