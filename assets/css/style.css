@@ -1,11 +1,18 @@
 .linkbox {
 	display: flex;
-	align-items:center;
+	align-items: center;
 	justify-content: center;
-	
 }
 
-.linkbox img{
-	margin:7px;
+.linkbox img {
+	margin: 7px;
 }
 
+/* note: 100% is baseline so 85% is slightly darker, 
+	 20% would be significantly darker 
+	 
+	 background-color: rgba(0, 0, 0, 0.6);
+	 */
+.linkbox:hover {
+	background-color: rgba(255, 255, 255, 0.356);
+}
