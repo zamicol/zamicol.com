@@ -5,6 +5,9 @@ const G = .0000000000667408;
 
 document.addEventListener("DOMContentLoaded", function(event) {
 	LorentzSlider();
+	MassSlider();
+	RadiusSlider();
+
 	document.querySelector("#transformButton").addEventListener("click", function() {
 		LorentzTransform();
 	});
@@ -59,7 +62,8 @@ function GravityTransform() {
 	console.log(radius * Math.pow(C, 2));
 	console.log(((2 * G * mass) / radius * Math.pow(C, 2)));
 
-
+// Solar mass 1.989 × 10^30
+// Solar radius 695,700
 
 	console.log(1 - ((2 * G * mass) / radius * Math.pow(C, 2)));
 	console.log(Math.sqrt(1 - ((2 * G * mass) / radius * Math.pow(C, 2))));
@@ -67,7 +71,7 @@ function GravityTransform() {
 	var dt = time * Math.sqrt(1 - ((2 * G * mass) / radius * Math.pow(C, 2)));
 	var dg = "";
 	var esc = "";
-	console.log(dt);
+
 	if (Math.sign(dt) == -1 || dt.toString() == "NaN") {
 		dt = "Black Hole";
 		dg = "Black Hole";
@@ -95,5 +99,31 @@ function LorentzSlider() {
 	slider.oninput = function() {
 		output.value = this.value;
 		LorentzTransform();
+	}
+}
+
+
+function MassSlider() {
+	var slider = document.getElementById("massSlider");
+	var output = document.getElementById("mIn");
+	output.value = slider.value; // Display the default slider value
+
+	// Update the current slider value (each time you drag the slider handle)
+	slider.oninput = function() {
+		output.value = this.value;
+		GravityTransform();
+	}
+}
+
+
+function RadiusSlider() {
+	var slider = document.getElementById("radiusSlider");
+	var output = document.getElementById("rIn");
+	output.value = slider.value; // Display the default slider value
+
+	// Update the current slider value (each time you drag the slider handle)
+	slider.oninput = function() {
+		output.value = this.value;
+		GravityTransform();
 	}
 }

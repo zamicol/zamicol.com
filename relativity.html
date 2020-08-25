@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="assets/img/cypherpunk_1028.png" sizes="any" type="image/svg+xml">
 	<title>Zamicol's Relativity Playground</title>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
 
 
 	<!--Slider -->
@@ -126,7 +126,7 @@
 
 
 			<div class="box">
-				<h2 class="title is-4">Special Relativity Playground: Velocity Time Dilation</h2>
+				<h2 class="title is-4">Velocity Time Dilation Playground</h2>
 				<form name="lor">
 					<strong>Frame</strong>
 					<br>
@@ -243,7 +243,7 @@
 
 
 			<div class="box">
-				<h2 class="title is-4">General Relativity Playground: Gravitational Time Dilation</h2>
+				<h2 class="title is-4">Gravitational Time Dilation Playground</h2>
 
 
 
@@ -259,24 +259,51 @@
 					<br />
 
 					<strong>Object</strong>
-					<br />
-					Radius: <input type=text name="rIn" value="1"> <input id="gravityTransform" type=button value="Transform">
-					<br />
-					Mass: &nbsp;&nbsp;&nbsp;<input type=text name="mIn" value="1">
 
+					<br />
+
+					<p>Units: &nbsp;
+						<select id="gravityUnits">
+							<option value="solar">Solar</option>
+							<option value="km">km kg (10^24)</option>
+						</select>
+					</p>
+
+					Mass: &nbsp;&nbsp;&nbsp;<input type=text id="mIn" value="1">
+					<br />
+					Radius: <input type=text id="rIn" value="1">
+					<input id="gravityTransform" type=button value="Transform">
 
 
 					<div class="slidecontainer">
-						<input type="range" min="0" max="1" value=".5" step="0.001" class="slider" name="massSlider">
+						<input type="range" min="0" max="10000" value="5000" step="1" class="slider" id="massSlider">
 					</div>
 					<div class="columns help is-mobile">
 						<div class="column">
-							Light
+							Tiny
 						</div>
 						<div class="column has-text-right">
-							Heavey
+							Massive
 						</div>
 					</div>
+
+					<div class="slidecontainer">
+						<input type="range" min="0" max="10000" value="5000" step="1" class="slider" id="radiusSlider">
+					</div>
+					<div class="columns help is-mobile">
+						<div class="column">
+							Small
+						</div>
+						<div class="column has-text-right">
+							Large
+						</div>
+					</div>
+
+
+
+
+
+
 
 
 
@@ -374,13 +401,16 @@
 					<li><a href="https://en.wikipedia.org/wiki/Einstein–Hilbert">Einstein–Hilbert action</a></li>
 					<li><a href="https://en.wikipedia.org/wiki/Shapiro_time_delay">Shapiro time delay</a></li>
 					<li><a href="https://en.wikipedia.org/wiki/Unruh_effect">Unruh Effect</a></li>
+					<li><a href="https://en.wikipedia.org/wiki/Stress%E2%80%93energy%E2%80%93momentum_pseudotensor">Stress–energy–momentum pseudotensor</a></li>
+
+
 				</ul>
 			</div>
 
 			<h1 class="title is-2">Learning Resources</h1>
 			<div class="content">
 				<ul>
-				<li><a href="https://github.com/bcrowell/general_relativity">Free book on General Relativity</a></li>
+					<li><a href="https://github.com/bcrowell/general_relativity">Free book on General Relativity</a></li>
 					<li><a href="https://en.wikipedia.org/wiki/Tests_of_general_relativity">Tests of general relativity</a></li>
 					<li><a href="https://www.youtube.com/watch?v=NLhQ924Bcj8&list=PLX2gX-ftPVXWyvfXnDFRQWcg1KqhGiaQK">Michel van Biezen GR videos (Conceptual, very little math)</a></li>
 					<li><a href="https://www.feynmanlectures.caltech.edu/index.html">Feynman Lectures</a></li>
@@ -396,10 +426,25 @@
 				<ul>
 					<li><a href="https://en.wikiversity.org/wiki/Theory_of_relativity">Theory of Relativity Wikiversity</a></li>
 					<li><a href="https://en.wikiversity.org/wiki/Quantum_mechanics">Quantum Mechanics Wikiversity</a></li>
-					<li>Partial theory of quantum gravity: "<a href="https://arxiv.org/abs/gr-qc/0311082">Quantum Gravity in Everyday Life: General Relativity as an Effective Field Theory</a>"</li>
 					<li><a href="https://www.sciencedirect.com/topics/mathematics/relativistic-mass">Relativistic Mass</a></li>
-
 					<li><a href="https://en.wikipedia.org/wiki/Galaxy_rotation_curve">Galaxy Rotation Curve</a></li>
+					<li><a href="https://einstein.stanford.edu/content/relativity/qanda.html">Gravity Probe B Q&A</a></li>
+
+
+					</li>
+				</ul>
+			</div>
+
+
+
+
+			<h1 class="title is-2">Tools</h1>
+			<div class="content">
+				<ul>
+					<li><a href="https://github.com/spacetimeengineer/spacetimeengine">Spacetime Engine</a></li>
+					<li><a href="https://github.com/wojciechczaja/GraviPy">GraviPy</a></li>
+
+
 				</ul>
 			</div>
 
@@ -407,11 +452,12 @@
 			<div class="content">
 				<ul>
 					<li><a href="https://arxiv.org/pdf/2004.05905.pdf">Relativistic corrections to the rotation curves of disk galaxies</a></li>
+					<li>Partial theory of quantum gravity: "<a href="https://arxiv.org/abs/gr-qc/0311082">Quantum Gravity in Everyday Life: General Relativity as an Effective Field Theory</a>"</li>
 				</ul>
 			</div>
 
 
-						
+
 
 			<h1 class="title is-2">Other Topics</h1>
 			<div class="content">
@@ -433,8 +479,11 @@
 			<div class="content">
 				<ul>
 					<li><a href="https://en.wikipedia.org/wiki/Entropic_gravity">Entropic Gravity</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Modified_Newtonian_dynamics">MOND</a></li>
-					
+					<ul>
+						<li><a href="https://www.youtube.com/watch?v=8ovRZuv5Lo8">Youtube: A New View on Gravity and the Cosmos | Erik Verlinde</a> </li>
+					</ul>
+					<li><a href="https://en.wikipedia.org/wiki/Modified_Newtonian_dynamics">MOND</a></li>
+
 				</ul>
 			</div>
 
