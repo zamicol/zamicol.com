@@ -24,6 +24,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
 	document.querySelector("#gravityTransform").addEventListener("click", function() {
 		GravityTransform();
 	});
+
+
+
 });
 
 function LorentzTransform() {
