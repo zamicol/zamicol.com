@@ -11,7 +11,7 @@ const EarthRadius = 6378000;// m
 // Solar radius 695,700 km
 // Solar gravity 273.95 m/s^2
 // Earth mass 5.972 × 10^24 kg
-// Eath Radius 6,378 km
+// Earth Radius 6,378 km
 
 document.addEventListener("DOMContentLoaded", function(event) {
 	LorentzSlider();
@@ -31,17 +31,13 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 function LorentzTransform() {
 	var lr = document.forms['lor'];
-
 	var beta = lr.elements["beta"].value;
-
-
 	var gam = 1 / Math.sqrt(1 - Math.pow(beta, 2));
 
 	var dt = lr.elements["tIn"].value;
 	var dx = lr.elements["xIn"].value;
 	var dm = lr.elements["mIn"].value;
 	var dg = lr.elements["gIn"].value;
-
 
 	lr.elements["vIn"].value = C * beta;
 	lr.elements["gamma"].value = gam;
@@ -97,9 +93,9 @@ function GravityTransform() {
 	var dt = time * Math.sqrt(1 - ((2 * G * inputMass) / (inputRadius * Math.pow(C, 2))));
 	//console.log("Time dilation: " + dt);
 
-		// Length Contraction
-		var dx = length * Math.sqrt(1 - ((2 * G * inputMass) / (inputRadius * Math.pow(C, 2))));
-		//console.log("Time dilation: " + dt);
+	// Length Contraction
+	var dx = length * Math.sqrt(1 - ((2 * G * inputMass) / (inputRadius * Math.pow(C, 2))));
+	//console.log("Time dilation: " + dt);
 
 	// Escape
 	var esc = Math.sqrt((2 * G * inputMass) / inputRadius);
@@ -122,18 +118,12 @@ function GravityTransform() {
 	console.log("Swarz Mass: " + swarzM);
 
 
-
-
-
-
 	document.querySelector(".gravityFrame .tOut").textContent = dt.toString();
 	document.querySelector(".gravityFrame .xOut").textContent = dx.toString();
 	document.querySelector(".gravityFrame .gOut").textContent = grav.toString();
 	document.querySelector(".gravityFrame .escOut").textContent = esc.toString();
 	document.querySelector(".gravityFrame .sczOut").textContent = swarz.toString();
 	document.querySelector(".gravityFrame .sczMOut").textContent = swarzM.toString();
-
-	
 }
 
 
