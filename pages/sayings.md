@@ -9,14 +9,36 @@ informational universe because if the universe is not informational there can
 never be an accurate description of the universe.  If the universe is
 informational, it can be fully known.  
 
+---
+
 The difference between an informational and non-informational universe is the
 ability to know the universe.  
-
-
 
 If the universe is non-informational, any approximation is fundamentally
 informational.  An informational universe can be perfectly described, but the
 description of a non-informational universe has limited resolution.  
+
+
+
+
+
+# Hypothesis Information Razor (Ocam's Razor is wrong)
+The best hypothesis is the hypothesis with the least information, not the
+"simplest explanation", which is poorly definable.  
+
+For example, tightly assuming a correlation is more information than assuming an
+unknown correlation. Since assuming an unknown correlation is less information,
+it is the better hypothesis ceteris paribus.  However, tightly assuming a
+correlation is widely considered the "simplest" explanation.  
+
+
+
+
+
+
+
+
+
 
 
 # Quantum
@@ -54,10 +76,18 @@ Vestigial Code
 Code or code architecture that use to serve a that us
 
 
+# Work
 
+If your manager has no technical ability, they are a bad manager.  
+
+A managers merit must first be measuered by their technical knowledge and then secondly their managerial skills. 
+
+
+
+# Javascript
 Javascript's design can be summarized simply:
 
-Someone once did something wrong, and now it's apart of the language, so you need to deal with it.   
+Someone once did something wrong, and now it's apart of the language, so everyone has to deal with it forever.   
 
-"Why is this named that way?"  Someone once named it wrong so now it's eternally the wrong thing.  
+"Why is this thing this that way?"  Someone once wrote the code wrong so now it's eternally the wrong thing.  
 

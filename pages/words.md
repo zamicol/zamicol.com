@@ -1,5 +1,4 @@
 # Words that the Google spellcheck says aren't words
-juridicts
 misconfiguration
 scalability
 preliminarily
@@ -105,6 +104,7 @@ signifier
 misattributing
 tamari
 incrementor
+externalities
 
 
 
@@ -114,6 +114,7 @@ embeddable
 
 
 # Public Words that I like
+juristic
 perturbation
 
 
