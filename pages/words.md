@@ -107,6 +107,7 @@ incrementor
 externalities
 representable
 Kolmogorov complexity
+computable
 
 
 
