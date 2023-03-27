@@ -105,12 +105,15 @@ misattributing
 tamari
 incrementor
 externalities
+representable
+Kolmogorov complexity
 
 
 
 
 # Words that VS code should have known _since they are programming words_.  
 embeddable
+Kolmogorov
 
 
 # Public Words that I like
