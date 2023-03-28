@@ -115,7 +115,9 @@ computable
 # Words that VS code should have known _since they are programming words_.  
 embeddable
 Kolmogorov
-
+unmarshal
+multibyte
+Precomputes
 
 # Public Words that I like
 juristic
