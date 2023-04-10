@@ -73,8 +73,8 @@ incentivised
 minification
 backdoored
 untrusting
-canonicalized
-unmarshal
+canonicalized canonicalize
+unmarshal, unmarshaler
 handedly (heavy handedly)
 winterization
 Footgun, footgunned
@@ -109,7 +109,10 @@ representable
 Kolmogorov complexity
 computable
 semantical
-
+recalculatable
+oversized
+verifiers (Noun.  A common cryptography term)
+unpadded
 
 
 
@@ -117,8 +120,11 @@ semantical
 embeddable
 Kolmogorov
 unmarshal
+unmarshaler
 multibyte
 Precomputes
+unpadded
+
 
 # Public Words that I like
 juristic
@@ -126,4 +132,17 @@ perturbation
 
 
 # Words I pronounce weird:
-Boundary (Three syllables): "boundry", two syllables.  
+"boundry", two syllables.         Boundary (Three syllables)       
+"Lie-barry"   (two syllables)     Library (three syllables)
+
+
+
+# Maria-ism
+Maria                   Instead or
+--------------------
+Culture-sack            cul-de-sac
+Chippery                Chipper
+I beg the difference    I beg to differ
+Shimmer                 Dizzle
+Medium                  median - road
+Portable                portal - web
