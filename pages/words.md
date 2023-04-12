@@ -113,6 +113,7 @@ recalculatable
 oversized
 verifiers (Noun.  A common cryptography term)
 unpadded
+recreatable
 
 
 
@@ -143,6 +144,6 @@ Maria                   Instead or
 Culture-sack            cul-de-sac
 Chippery                Chipper
 I beg the difference    I beg to differ
-Shimmer                 Dizzle
+Shimmer                 Drizzle
 Medium                  median - road
 Portable                portal - web
