@@ -114,6 +114,8 @@ oversized
 verifiers (Noun.  A common cryptography term)
 unpadded
 recreatable
+multiton
+
 
 
 
@@ -125,6 +127,7 @@ unmarshaler
 multibyte
 Precomputes
 unpadded
+multiton
 
 
 # Public Words that I like
@@ -147,3 +150,8 @@ I beg the difference    I beg to differ
 Shimmer                 Drizzle
 Medium                  median - road
 Portable                portal - web
+
+
+# "schwords"
+
+Schmoove move
