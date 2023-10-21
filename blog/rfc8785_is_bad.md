@@ -52,3 +52,23 @@ If you need JSON canonicalization, follow the rest of 8785 but use UTF-8 orderin
 
 
 
+
+
+
+Imagine that if you lived in Kansas, and starting in July 1996 you had to flip the order of `lmnop` with `uvxyz`. 
+
+Unlike everyone else in the world, your alphabet is now `abcdefghijkuvwxyzpqrstlmno`.
+
+Did the alphabet everyone else uses exist before you made your own?  Yes, of course.  
+Why did Kansas flip some letters?  No one knows.  
+Is there a good reason to flip the letters?  No.  
+
+**That's UTF-16. **
+
+UTF-16, unlike UTF-8, UTF-32, or Unicode, has some "letters" out of order.  
+
+UTF-8 has all it's letters in order.  That's just one reason why UTF-8 is superior.  
+
+
+
+So again, why UTF-16 is like this?  No one knows.  

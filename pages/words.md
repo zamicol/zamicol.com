@@ -61,9 +61,9 @@ millennials, Millennials
 implementers
 explainer
 novelly
-annotational
-underweighted
-incentivised
+annotational  - Bob's comments on the paper were annotational.  
+underweighted  - The value of the productive class was ridiculously underweighted by the bureaucrat.  
+incentivised  - The bureucrat's taxing of the productive class incentivised abandoning their homeland.  
 minification
 backdoored
 untrusting
@@ -132,7 +132,7 @@ centric     "The program used a Unicode-centric encoding method."
 Weaponization 
 unescaping/unescaped
 miscategorized
-
+undeservingly
 
 
 
@@ -183,7 +183,8 @@ reserialize
 underqualification, underqualified
 unsigning
 unadopted
-unescaping
+unescaping, escapable
+Puebloan
 
 
 
@@ -203,12 +204,14 @@ germane - Relevant or foundational to an area of study.
 Cyclomatic complexity - a software metric used to indicate the complexity of a program.
 Pigeonhole principle - In the domain of compression the pigeonhole principle states that for all compression algorithms, some outputs will be *larger* than the inputs.
 euphemism treadmill   - euphemisms themselves become taboo words, so new ones are needed.  People that don't rage against this ridiculousness are dumb and generally uninteresting.  
+Late state bureaucracy.  A political philosory marked by anti-liberty, anti-meritocratic, anti-rule of (simple) law, anti-individual/minority rights, and pro-government control, pro-tyranny-of-the-majority, pro-war.  (It's funny because it's also "late state" bureaucracy compared to late stage bureaucracy
 
-
+🫣 Late stage capitalism?  
+🫵 Late state bureaucracy.
 
 
 # Zami Words
-Possible, Plausible, Probable, Feasible
+## Possible, Plausible, Probable, Feasible
 Possible: Has the ability to be real under real conditions, regardless of how novel or mundane.
 
 Plausible: Has the ability to be a solution under a given condition, current ability, or normal conditions.
@@ -218,6 +221,54 @@ Probable: A likely outcome with given or normal conditions.
 Feasible: Under given conditions, likely to be possible without excessive or unforeseen effort.
 
 "It's possible the engineer will report building the longer bridge is plausible, and it's probable the feds will issue a grant making its construction feasible".
+
+## Wokeness Definition of Woke
+Woke: Wokeness, also termed the "woke mind virus", is a political strategy and
+culture that's chiefly characterized by the rejection of personal responsibility
+and merit.  Wokeness quickly asserts blame to others instead of assigning blame
+correctly to originating groups as a means to reject merit.   Wokeness rejects
+meritocracy and advocates for kakistocracy.  Outsiders frequently view wokeness
+as weak willed, ignorant, undeservingly entitled, and highly destructive. 
+
+Wokeness believes in monoculture, cult adherence to group dogma, and does not
+value diversity.  Adherence to cult dogma is ironically termed "diversity".
+Wokeness labels views outside of their cult dogma as "bad" and only views
+originating from within the  group as "good".  Wokeness ostracizes independent
+thinkers to preserving an echo chamber.  
+
+Wokeness rejects equality under the law and believes in giving certain ethnic
+groups governmentally institutionalized privilege over other groups.  In place
+of diversity, wokeness favors "equality through oppression" and advocates for a
+society structured as described by the 1961 "Harrison Bergeron".
+
+Wokeness is frequently characterized by newspeak, suppression of facts, and
+hatred of free speech.  Wokeness seeks to establish a censorship apparatus to
+eliminate any thought that contradicts the woke hive mind.  
+
+Wokeness does not believe in the rule of law, rather the rule of mob and
+kakistocracy.  
+
+Wokeness frequently accompanies the rejection of heritage and tradition for the
+sake of being edgy and rebellious, self inflicting harm, refusal to look at
+data.Wokeness looks down on women who choose to marry and have families and
+instead exults childlessness.  
+
+Instead of working in their own communities toward excellence, wokeness aims to
+destroy the American productive class to bring them down to the perceived levels
+of failing groups.
+
+Wokeness ignores or minimizes data that is inconvenient, but magnifies data that
+the woke hive mind thinks advances their dogma.  Wokeness lacks a
+backpropagation algorithm.  If the same data is later inconvenient, instead of
+updating assumptions, wokeness favors "forgetting" data they used to advocate.  
+
+Wokeness ignores racial crime data in the USA.  
+
+The opposite of wokeness is liberty.  Liberty believes that regardless of where
+someone starts, all should use their own internal power, a natural right that
+cannot be taken or given by government, to advance and better themselves.  
+
+
 
 
 # Political Words
