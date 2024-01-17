@@ -10,10 +10,10 @@ https://seriot.ch/json/parsing.html
 
 Open Source Projects:
 
-Personal
+
 
 Personal Knowledge Base
-https://obsidian.md/ - Obsidian is the private and flexible writing app that adapts to the way you think. 
+https://obsidian.md - Obsidian is the private and flexible writing app that adapts to the way you think. 
 
 
 

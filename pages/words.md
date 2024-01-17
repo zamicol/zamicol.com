@@ -38,7 +38,7 @@ Passworded
 Panderings     - "Smart people ignored the politicians panderings"
 Uncompetitive  
 Timestamper    - "The server cronos is the timestamper."
-quaternary, Quaternions  - "The quaternions representation showed that the Kolmogorov complexity is lower than what was inferred by the non-quaternary represenatiation."  
+quaternary, Quaternions, quaternions  - "The quaternions representation showed that the Kolmogorov complexity is lower than what was inferred by the non-quaternary represenatiation."  
 Paywalled  - The paywalled New York Times article helps stop the spread of misinformation.  
 0123456789XE (while 0123456789 and 0123456789ABCDEF are "correct")
 Patentability - The lawyer was in the engineering meeting to judge the patentability of the new widget.  
@@ -84,7 +84,7 @@ subresources
 explainer
 Unvetted
 slumgummy
-ostracisation
+ostracization (British ostracisation)
 unparsable
 uncensorable
 algorithmically
@@ -123,16 +123,35 @@ thumbnailing - the process of creating a thumbnail.
 unsigning
 natality - fecundity, except fecundity has a connotation of already having kids while natality refers to kids themselves or the ability to have kids.  
 radix
-informationally
+informationally, Informationally - WTF google.  
 untighten
 chile      (chile peppers, e.g. Pueblo chile)
-Landauer   (Landauer Limit) Extremely important concecpt in Physics and Computer Science.  
+Landauer   (Landauer Limit) Extremely important concept in Physics and Computer Science.  
 googol      The number that Google derives it's name.  
 centric     "The program used a Unicode-centric encoding method."
 Weaponization 
 unescaping/unescaped
 miscategorized
 undeservingly
+Natalists
+Logarithmically
+insufficiencies
+probiotics
+Hossenfelder
+cryptographically - WTF google.
+blueshifted, redshifted
+Bekenstein
+lumeniferous
+Coloradoans As Pueblo and Southern Colorado has said for a very long time.  
+immunities
+supernaturalism
+hypernym and hyponym (WTF)
+uncomputable, computable
+irreducibility
+immitation (WTF)
+sashimi
+
+
 
 
 
@@ -151,7 +170,7 @@ encodable
 endianness
 informationally
 Kolmogorov
-merkle
+merkle, Merkle
 multiton
 mutatable
 namespacing
@@ -185,7 +204,12 @@ unsigning
 unadopted
 unescaping, escapable
 Puebloan
+travelling (wtf)
+uncomputable, computable
 
+# Other WTF VS code words:
+untighten
+fundamentality
 
 
 
@@ -199,18 +223,50 @@ perturbation
 misanthropic - disliking humankind and avoiding human society.
 adduce - cite as exidence 
 germane - Relevant or foundational to an area of study.  
+Lügenpresse - (German) the lying press, e.g. fake news.  
+metier - an occupation or activity that one is good at.
+prattle - talk at length in a foolish or inconsequential way.
+mendacity - untruthfulness; lying.
+drivel - talk nonsense.
+raison d'etre - the most important reason or purpose for someone or something's existence.
+ceteris paribus - all things being equal
+sophistry - the use of fallacious arguments, especially with the intention of deceiving.
+Isomorphic.  - Math functions, programs, philosophic ideas that are interchangeably equivalent (although they may require some conversion)
+
+
+
 
 # Concepts
 Cyclomatic complexity - a software metric used to indicate the complexity of a program.
 Pigeonhole principle - In the domain of compression the pigeonhole principle states that for all compression algorithms, some outputs will be *larger* than the inputs.
 euphemism treadmill   - euphemisms themselves become taboo words, so new ones are needed.  People that don't rage against this ridiculousness are dumb and generally uninteresting.  
-Late state bureaucracy.  A political philosory marked by anti-liberty, anti-meritocratic, anti-rule of (simple) law, anti-individual/minority rights, and pro-government control, pro-tyranny-of-the-majority, pro-war.  (It's funny because it's also "late state" bureaucracy compared to late stage bureaucracy
+Late stage bureaucracy.  (Alternatively state bureaucracy, a A double entendre) A political philosophy marked by anti-liberty, anti-meritocratic, anti-rule of (simple) law, anti-individual/minority rights, and pro-government control, pro-tyranny-of-the-majority, pro-war.  (It's funny because it's also "late state" bureaucracy compared to late stage bureaucracy
 
 🫣 Late stage capitalism?  
 🫵 Late state bureaucracy.
 
 
 # Zami Words
+
+convolutional collapse - The quick connecting of perviously not-tightly networked concepts due to a new understanding.  
+
+quick understanding, when a long series of concepts are networked together and things "make sense".  
+
+Vicarious Ego 
+~2012 (Mom invented term)
+ - Soccer dads that get too invested beacuase they are living sports through their child.  
+
+Computerware 
+~2014 
+All hardware and software components of a computer system.
+The StrawRaspBananaBerry pie mini computer is a fully open source device as all computerware is under a GPL 2.0 license.
+
+
+expolog (expologic, expoligically)
+~ 2023
+Expolog is the exclusive hypernym of exponential and logarithmic and hyponym of Transcendental.  
+
+
 ## Possible, Plausible, Probable, Feasible
 Possible: Has the ability to be real under real conditions, regardless of how novel or mundane.
 
@@ -222,10 +278,31 @@ Feasible: Under given conditions, likely to be possible without excessive or unf
 
 "It's possible the engineer will report building the longer bridge is plausible, and it's probable the feds will issue a grant making its construction feasible".
 
+
+
+Pareto principle: The Pareto principle states that for many outcomes, roughly 80% of consequences come from 20% of causes (the "vital few")
+
+
+
+
+# Political Words
+wokesplainin - This word resembles a contraction but lacks an apostrophe thus poking fun at the cultistis general unawareness of correct English.
+Bigoteering -  The act of labeling a person “racist”, “sexist”, or somethinglikeit-ist in situations where these are not warranted, in an attempt to exploit the stigmas accompanying such labels and force the opponent to spend time and energy explaining “why he/she is not a bigot”.
+If you disagree with Sally on anything political, all she does is call you a sexist, racist, homophobe. Classic bigoteering.
+Urban Monoculture - The worldwide woke, anti-truth, and low birthrate urban culture.  
+
+
 ## Wokeness Definition of Woke
 Woke: Wokeness, also termed the "woke mind virus", is a political strategy and
 culture that's chiefly characterized by the rejection of personal responsibility
-and merit.  Wokeness quickly asserts blame to others instead of assigning blame
+and merit, and embrace of victimhood identity. Woke has an external locus of
+control and rejects the existence of an internal locus of control.
+
+The woke dogma is that all inequality in the world comes from oppression.
+Therefore, some groups don't succeed because of inequality.  
+
+
+Wokeness quickly asserts blame to others instead of assigning blame
 correctly to originating groups as a means to reject merit.   Wokeness rejects
 meritocracy and advocates for kakistocracy.  Outsiders frequently view wokeness
 as weak willed, ignorant, undeservingly entitled, and highly destructive. 
@@ -240,6 +317,10 @@ Wokeness rejects equality under the law and believes in giving certain ethnic
 groups governmentally institutionalized privilege over other groups.  In place
 of diversity, wokeness favors "equality through oppression" and advocates for a
 society structured as described by the 1961 "Harrison Bergeron".
+
+Woke believes that any group that is succeeding, like European men or Jews, are
+oppressors.  The Wokeness cult elevates any group that is perceived by the
+narrative as a victim. Woke believes in European cultural genocide.  
 
 Wokeness is frequently characterized by newspeak, suppression of facts, and
 hatred of free speech.  Wokeness seeks to establish a censorship apparatus to
@@ -271,8 +352,6 @@ cannot be taken or given by government, to advance and better themselves.
 
 
 
-# Political Words
-wokesplainin - This word resembles a contraction but lacks an apostrophe thus poking fun at the cultistis general unawareness of correct English.
 
 
 
@@ -293,6 +372,7 @@ I beg the difference    I beg to differ
 Shimmer                 Drizzle
 Medium                  median - road
 Portable                portal - web
+Witche's
 
 
 # "schwords"
