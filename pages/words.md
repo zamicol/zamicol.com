@@ -148,12 +148,24 @@ supernaturalism
 hypernym and hyponym (WTF)
 uncomputable, computable
 irreducibility
-immitation (WTF)
-sashimi
-
-
-
-
+sashimi (WTF)
+Harrison Bergeron
+disproven - The past participle disproven is often proscribed in favor of disproved.
+Sheesh
+blueshift
+lightyear
+redshift
+maternalistic but paternalistic is known WTF Google!
+Monoculture
+statism
+Chiles, as in Pueblo Chiles
+lensing - as in gravitational lensing
+Schwarzschild - as in Schwarzschild radius
+negligibility
+lookups -  WTF google!  As in, "Database lookups".  "Record lookups".  Even CHATGPT says it.  Even VS code! WTF.  
+architected -Gawd damn! WTF!  Since Signal uses Electron, it was architected for the web, however, it sillily decides not to support the browser for hand wavey reasons.  
+accuracies - WTF.  
+misallocated - WTF.  
 
 # Words I expected VS Code to known since they are mostly programming words.  
 behaviour
@@ -206,6 +218,8 @@ unescaping, escapable
 Puebloan
 travelling (wtf)
 uncomputable, computable
+definitionally
+
 
 # Other WTF VS code words:
 untighten
@@ -232,7 +246,8 @@ raison d'etre - the most important reason or purpose for someone or something's 
 ceteris paribus - all things being equal
 sophistry - the use of fallacious arguments, especially with the intention of deceiving.
 Isomorphic.  - Math functions, programs, philosophic ideas that are interchangeably equivalent (although they may require some conversion)
-
+Dialectic - the art of investigating or discussing the truth of opinions.
+Megalomania - obsession with the exercise of power, especially in the domination of others.
 
 
 
