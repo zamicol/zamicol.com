@@ -139,7 +139,7 @@ insufficiencies
 probiotics
 Hossenfelder
 cryptographically - WTF google.
-blueshifted, redshifted
+blueshifted, redshifted, dopplershifted
 Bekenstein
 lumeniferous
 Coloradoans As Pueblo and Southern Colorado has said for a very long time.  
@@ -166,6 +166,7 @@ lookups -  WTF google!  As in, "Database lookups".  "Record lookups".  Even CHAT
 architected -Gawd damn! WTF!  Since Signal uses Electron, it was architected for the web, however, it sillily decides not to support the browser for hand wavey reasons.  
 accuracies - WTF.  
 misallocated - WTF.  
+Ethereum
 
 # Words I expected VS Code to known since they are mostly programming words.  
 behaviour
@@ -219,6 +220,7 @@ Puebloan
 travelling (wtf)
 uncomputable, computable
 definitionally
+misallocated  WTF.  
 
 
 # Other WTF VS code words:
@@ -252,20 +254,36 @@ Megalomania - obsession with the exercise of power, especially in the domination
 
 
 # Concepts
-Cyclomatic complexity - a software metric used to indicate the complexity of a program.
-Pigeonhole principle - In the domain of compression the pigeonhole principle states that for all compression algorithms, some outputs will be *larger* than the inputs.
-euphemism treadmill   - euphemisms themselves become taboo words, so new ones are needed.  People that don't rage against this ridiculousness are dumb and generally uninteresting.  
-Late stage bureaucracy.  (Alternatively state bureaucracy, a A double entendre) A political philosophy marked by anti-liberty, anti-meritocratic, anti-rule of (simple) law, anti-individual/minority rights, and pro-government control, pro-tyranny-of-the-majority, pro-war.  (It's funny because it's also "late state" bureaucracy compared to late stage bureaucracy
+Cyclomatic complexity - a software metric used to indicate the complexity of a
+program. 
 
+Pigeonhole principle - In the domain of compression the pigeonhole
+principle states that for all compression algorithms, some outputs will be
+*larger* than the inputs. 
+
+euphemism treadmill   - euphemisms themselves become
+taboo words, so new ones are needed.  People that don't rage against this
+ridiculousness are dumb and generally uninteresting.  
+
+Late stage bureaucracy.  (Alternatively late state bureaucracy, a A double entendre)
+A political philosophy marked by anti-liberty, anti-meritocratic, anti-rule of
+(simple) law, anti-individual/minority rights, and pro-government control,
+pro-tyranny-of-the-majority, pro-war.  
 🫣 Late stage capitalism?  
 🫵 Late state bureaucracy.
+
+Toxic Compassion is the prioritization of short term emotional comfort over
+long-term outcomes
+
+
 
 
 # Zami Words
 
-convolutional collapse - The quick connecting of perviously not-tightly networked concepts due to a new understanding.  
-
-quick understanding, when a long series of concepts are networked together and things "make sense".  
+convolutional collapse - The quick connecting of perviously not-tightly
+networked concepts due to a new understanding.  
+Quick understanding, when a long series of concepts are networked together and
+things "make sense".   Like dominos finally falling, or a bolt of lightning.  
 
 Vicarious Ego 
 ~2012 (Mom invented term)
