@@ -35,11 +35,11 @@ Unencapsulate (while unencapsulated is considered "correct" )
 astroturfing
 overdramatic
 Passworded
-Panderings     - "Smart people ignored the politicians panderings"
+Panderings     - "Smart people ignored the politicians many panderings"
 Uncompetitive  
-Timestamper    - "The server cronos is the timestamper."
-quaternary, Quaternions, quaternions  - "The quaternions representation showed that the Kolmogorov complexity is lower than what was inferred by the non-quaternary represenatiation."  
-Paywalled  - The paywalled New York Times article helps stop the spread of misinformation.  
+Timestamper    - "The server 'cronos' is the timestamper."
+quaternary, Quaternions, quaternions  - "The quaternions representation showed that the Kolmogorov complexity is lower than what was inferred by the non-quaternary representation."  
+Paywalled  - The New York Times article is paywalled because paywalling the New York Times helps stop the spread of misinformation.  
 0123456789XE (while 0123456789 and 0123456789ABCDEF are "correct")
 Patentability - The lawyer was in the engineering meeting to judge the patentability of the new widget.  
 Successionally - one after another.  "Can I use these cups successionally?"
@@ -112,8 +112,8 @@ Merkle (like Merkle tree, Merkle root, etc...)
 uniadic, variadic
 multiton
 significand - In the number 01.010, 1.01 is the significand.  The last and the first 0's are padding character.  
-positionally - In programing, we can set a static array's values positionally. 
-denormalized  - In computer science, there is normalization and denomalization.  This is a common term.  
+positionally - In programming, we can set a static array's values positionally. 
+denormalized/denormalization  - In computer science, there is normalization and denormalization.  This is a common term.  
 megafauna - Horses are a megafauna native to North America that were extincted by the arrival of humans.
 upvote
 reserialize
@@ -167,6 +167,10 @@ architected -Gawd damn! WTF!  Since Signal uses Electron, it was architected for
 accuracies - WTF.  
 misallocated - WTF.  
 Ethereum
+countertop - WTF.  
+factuality
+Schwarzschild's
+formula - WTF
 
 # Words I expected VS Code to known since they are mostly programming words.  
 behaviour
@@ -209,7 +213,7 @@ unversioned
 Upsert, upserted, upserting, upserts
 sharded
 significand  (Yup.)
-denormalized
+denormalized/denormalization  - In computer science, there is normalization and denormalization.  This is a common term.  
 cyclomatic
 reserialize
 underqualification, underqualified
@@ -236,20 +240,21 @@ fundamentality
 # Public Words that I like
 juristic
 perturbation
-misanthropic - disliking humankind and avoiding human society.
-adduce - cite as exidence 
-germane - Relevant or foundational to an area of study.  
-Lügenpresse - (German) the lying press, e.g. fake news.  
-metier - an occupation or activity that one is good at.
-prattle - talk at length in a foolish or inconsequential way.
-mendacity - untruthfulness; lying.
-drivel - talk nonsense.
-raison d'etre - the most important reason or purpose for someone or something's existence.
+misanthropic    - disliking humankind and avoiding human society.
+adduce          - to bring forward in argument or as evidence; cite as pertinent or conclusive
+germane         - Relevant or foundational to an area of study.  
+Lügenpresse     - (German) the lying press, e.g. fake news.  
+metier          - an occupation or activity that one is good at.
+prattle         - talk at length in a foolish or inconsequential way.
+drivel          - talk nonsense.
+mendacity       - untruthfulness; lying.
+raison d'etre   - the most important reason or purpose for someone or something's existence.
 ceteris paribus - all things being equal
-sophistry - the use of fallacious arguments, especially with the intention of deceiving.
-Isomorphic.  - Math functions, programs, philosophic ideas that are interchangeably equivalent (although they may require some conversion)
-Dialectic - the art of investigating or discussing the truth of opinions.
-Megalomania - obsession with the exercise of power, especially in the domination of others.
+sophistry       - the use of fallacious arguments, especially with the intention of deceiving.
+Isomorphic      - Math functions, programs, philosophic ideas that are interchangeably equivalent (although they may require some conversion)
+Dialectic       - the art of investigating or discussing the truth of opinions.
+Megalomania     - obsession with the exercise of power, especially in the domination of others.
+profligacy      - reckless extravagance or wastefulness in the use of resources.
 
 
 
@@ -323,7 +328,7 @@ wokesplainin - This word resembles a contraction but lacks an apostrophe thus po
 Bigoteering -  The act of labeling a person “racist”, “sexist”, or somethinglikeit-ist in situations where these are not warranted, in an attempt to exploit the stigmas accompanying such labels and force the opponent to spend time and energy explaining “why he/she is not a bigot”.
 If you disagree with Sally on anything political, all she does is call you a sexist, racist, homophobe. Classic bigoteering.
 Urban Monoculture - The worldwide woke, anti-truth, and low birthrate urban culture.  
-
+AWFUL: Affluent White Female Urban Liberals
 
 ## Wokeness Definition of Woke
 Woke: Wokeness, also termed the "woke mind virus", is a political strategy and

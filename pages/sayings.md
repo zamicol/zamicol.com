@@ -21,38 +21,24 @@ description of a non-informational universe has limited resolution.
 
 
 
-
-# Hypothesis Information Razor (Ocam's Razor is wrong)
-The best hypothesis is the hypothesis with the least information, not the
-"simplest explanation", which is poorly definable.  
-
-For example, tightly assuming a correlation is more information than assuming an
-unknown correlation. Since assuming an unknown correlation is less information,
-it is the better hypothesis ceteris paribus.  However, tightly assuming a
-correlation is widely considered the "simplest" explanation.  
-
-
-
-
-
-
-
-
-
-
-
 # Quantum
 - Bit is the quantum of information.
 - Thread is the quantum of fabric.  
-- Word is the quantum of language. 
+- Word is the quantum of language.
+- Word is a quantum of sentence.  
 - Letter is the quantum of word.  
 - Idea is the quantum of thought. 
 - Gene is the quantum of genetics.
 - Meme is the quantum of culture.
 - Action is the quantum of state change.
-- State change is the quantum of time.  
-
+- Action is the quantum of time.  
 - A coze is the quantum of authentication.  
+
+
+
+
+
+
 
 # Computer Science Words
 - Computerware, (computware)

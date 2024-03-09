@@ -9,6 +9,8 @@
  - https://github.com/orbitdb/orbitdb
 
 
+# Permissions:
+https://github.com/Permify/permify
 
 
 Links:
@@ -38,6 +40,23 @@ https://obsidian.md - Obsidian is the private and flexible writing app that adap
 
 
 
+# Cryptography Related
+
+Coze
+https://github.com/Cyphrme/Coze
+
+Like Coze but not Coze
+  - https://cyberphone.github.io/doc/security/jsf.html
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -45,6 +64,8 @@ https://obsidian.md - Obsidian is the private and flexible writing app that adap
 
 # Cool tools 
 
+Plant Hardiness Zones
+https://planthardiness.ars.usda.gov
 
 # Cool Educational Tools
 https://samwho.dev/allocator-playground (See also https://samwho.dev/memory-allocation)
