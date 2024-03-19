@@ -27,7 +27,8 @@ Transputs
 Institutionalism
 retargeting
 Explainer
-Rearchitecture/rearchitected  "After the design failed due to fundamental design flaws, Bob rearchitected the specification."
+Rearchitecture/rearchitected/rearchitects  "After the design failed due to fundamental design flaws, Bob rearchitected the specification."  "We sent the new guy away to rearchitect the square wheel design he proposed."
+reimagines/reimagine/reimagined
 Differentiators
 Inited   "The server was inited with a bad configuration file."
 Compactified  "JSON is sorter after compactification.  To canonicalize a JSON file, it must first be compactified."
@@ -225,7 +226,7 @@ travelling (wtf)
 uncomputable, computable
 definitionally
 misallocated  WTF.  
-
+summated wtf.  
 
 # Other WTF VS code words:
 untighten
