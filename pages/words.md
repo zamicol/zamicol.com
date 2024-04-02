@@ -172,6 +172,7 @@ countertop - WTF.
 factuality
 Schwarzschild's
 formula - WTF
+Indistinguishability
 
 # Words I expected VS Code to known since they are mostly programming words.  
 behaviour
