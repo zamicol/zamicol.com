@@ -301,6 +301,10 @@ Computerware
 All hardware and software components of a computer system.
 The StrawRaspBananaBerry pie mini computer is a fully open source device as all computerware is under a GPL 2.0 license.
 
+Masterbet, 
+March 2020
+"Master Alphabet"  A master alphabet that's useful for truncation for smaller bases.  
+
 
 expolog (expologic, expoligically)
 ~ 2023
