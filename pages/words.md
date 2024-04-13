@@ -173,6 +173,13 @@ factuality
 Schwarzschild's
 formula - WTF
 Indistinguishability
+terseness
+impactful
+Anisotropies - the quality of exhibiting properties with different values when measured along axes in different directions
+celiac
+preforms - PET preforms
+chile instead of chili
+
 
 # Words I expected VS Code to known since they are mostly programming words.  
 behaviour
