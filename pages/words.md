@@ -179,6 +179,26 @@ Anisotropies - the quality of exhibiting properties with different values when m
 celiac
 preforms - PET preforms
 chile instead of chili
+droppingly - That car wreck was jaw droppingly good.  
+alma mater - just "alma" as wrong.  
+Boolean Satisfiability Problem - Satisfiability is not wrong.  
+vectorizing, vectorized - WTF.  
+linework - WTF.  Like in graphic arts.  
+Trustable, trustlessly
+quantifiably
+Nannyism 
+summated wtf.  
+bitonal
+esotericism - WTF.  
+Neumann - Von Neumann.  
+holographically
+kleptocrats, Statists  -LOL of course Google would say "kleptocrats" isn't a word!
+Elon
+unpowered
+photonically
+blunderous
+luminiferous aether - wtf
+Bohmian mechanics
 
 
 # Words I expected VS Code to known since they are mostly programming words.  
@@ -235,6 +255,9 @@ uncomputable, computable
 definitionally
 misallocated  WTF.  
 summated wtf.  
+Boolean Satisfiability Problem - Satisfiability is not wrong.  
+vectorizing - WTF. 
+bitonal 
 
 # Other WTF VS code words:
 untighten
@@ -264,6 +287,7 @@ Isomorphic      - Math functions, programs, philosophic ideas that are interchan
 Dialectic       - the art of investigating or discussing the truth of opinions.
 Megalomania     - obsession with the exercise of power, especially in the domination of others.
 profligacy      - reckless extravagance or wastefulness in the use of resources.
+erudition       - the quality of having or showing great knowledge or learning; scholarship.
 
 
 
@@ -289,33 +313,106 @@ pro-tyranny-of-the-majority, pro-war.
 Toxic Compassion is the prioritization of short term emotional comfort over
 long-term outcomes
 
+Politically correct authoritarianism - https://www.scientificamerican.com/blog/beautiful-minds/the-personality-of-political-correctness/
+
 
 
 
 # Zami Words
 
-convolutional collapse - The quick connecting of perviously not-tightly
+## convolutional collapse
+The quick connecting of perviously not-tightly
 networked concepts due to a new understanding.  
 Quick understanding, when a long series of concepts are networked together and
 things "make sense".   Like dominos finally falling, or a bolt of lightning.  
 
-Vicarious Ego 
+## Vicarious Ego 
 ~2012 (Mom invented term)
  - Soccer dads that get too invested beacuase they are living sports through their child.  
 
-Computerware 
+## Computerware 
 ~2014 
 All hardware and software components of a computer system.
 The StrawRaspBananaBerry pie mini computer is a fully open source device as all computerware is under a GPL 2.0 license.
 
-Masterbet, 
+## Masterbet
 March 2020
 "Master Alphabet"  A master alphabet that's useful for truncation for smaller bases.  
 
 
-expolog (expologic, expoligically)
+## expolog (expologic, expoligically)
 ~ 2023
 Expolog is the exclusive hypernym of exponential and logarithmic and hyponym of Transcendental.  
+
+Expologic functions are increasingly divergent from polynomial functions.  
+
+## cyphary (base 0)
+May 10, 2024
+The concept of a number base is defined as the number of unique digits used to
+represent a number in a positional numeral system. 
+
+The smallest base traditionally used used is base 1 (unary), which uses only one digit (usually 1) to represent all
+numbers. In a positional numeral system, each digit is multiplied by the base
+raised to a power determined by its position. 
+
+
+For example, in base 10 (decimal),
+the number 123 is calculated as follows: 1 * 10^2 + 2 * 10^1 + 3 * 10^0 = 100 +
+20 + 3 = 123 If we were to consider a hypothetical "base 0" system, any number
+raised to the power of 0 would always equal 1 (except for 0^0, which is
+undefined).
+
+But number systems don't start at unary, they start at cyphary (base 0), and informationally it's important to explain what cyphary is, because cyphary better explains what entropy is.  
+
+Unary is interesting by by base 2+ standards, because it's incapable of generating entropy. A single sided dice can only tell you how many times it was rolled; it does not produce any new information.  
+
+A two sided dice, that is a base 2 dice, tells you how many times it was rolled and a new bit of information.  "New bit of information" is entropy.  
+
+Base 1 (unary) is interesting from base 0's perspective because it's capable of representing information.  Base 0 can tell you nothing.  It's "undefined".  It's literally no information.  
+
+A zero sided dice doesn't exist.  There's no ability to learn anything, not even a single bit of information, from a zero sided dice.  Base 0 is the non-transmittal of information.  
+
+
+## sanctimoniac 2024/06/09
+A person characterized by or prone to excessive or hypocritical displays of sanctimony; someone who frequently adopts a holier-than-thou attitude, self-righteousness, or moral superiority.
+
+
+
+# Despostatist 2024/7/11
+Also "dictastatist", "desponationalist", "dictanational"
+
+George Orwell said, "As used, the word 'Fascism' is almost entirely meaningless. ...  almost any English person would accept 'bully' as a synonym for  'Fascist.'"
+
+Just because Benito Mussolini used propaganda to pervert a word to add a positive spin to his despotism doesn't mean we should allow him to pervert that word.
+
+He was a despot.  He must be resisted.  
+
+Reasonable historians and journalism can do much better safeguarding language.  Engineers shouldn't have to clean up their mess.  We're not the ones with degrees in English.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Fun with Words.  
+
 
 
 ## Possible, Plausible, Probable, Feasible

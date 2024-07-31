@@ -54,9 +54,13 @@ Like Coze but not Coze
 
 
 
+# Programming Tools
 
+# JS playground with TypeScript and JSDoc
+https://playcode.io/943389
 
-
+JSDoc reference
+https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html
 
 
 
