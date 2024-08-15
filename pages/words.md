@@ -199,6 +199,13 @@ photonically
 blunderous
 luminiferous aether - wtf
 Bohmian mechanics
+unfoundedly
+reposting
+Thermodynamically, thermodynamically
+replicable
+lexically
+dexter (dexter hand)
+natality
 
 
 # Words I expected VS Code to known since they are mostly programming words.  
@@ -288,6 +295,19 @@ Dialectic       - the art of investigating or discussing the truth of opinions.
 Megalomania     - obsession with the exercise of power, especially in the domination of others.
 profligacy      - reckless extravagance or wastefulness in the use of resources.
 erudition       - the quality of having or showing great knowledge or learning; scholarship.
+
+
+# Zami Definitions
+
+Stochastic terrorism: Agents in power allowing existing danger to grow and doing less than required to stop the violence.  
+
+Stochastic terrorism is taking advantage of latent violence to accomplish goals.
+Purposing acting, including through attrition or acts of omission, in a way that
+enables latent violence to be more successful is stochastic terrorism.  .
+For example, Team blue took advantage of stochastic terrorism by not reporting
+that a conference attendy had a gun.  They also didn't have enough people
+manning the metal detectors and knew with statistical certainty eventually a nut
+job would slip in.  
 
 
 
