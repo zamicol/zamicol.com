@@ -206,6 +206,7 @@ replicable
 lexically
 dexter (dexter hand)
 natality
+kindred
 
 
 # Words I expected VS Code to known since they are mostly programming words.  
