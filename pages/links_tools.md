@@ -84,3 +84,6 @@ Model quantum circuts online
 https://algassert.com/quirk
 
 
+AI Test:
+https://openpsychometrics.org/tests/FSIQ/
+

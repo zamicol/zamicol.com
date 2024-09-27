@@ -208,6 +208,11 @@ dexter (dexter hand)
 natality
 kindred
 literalist
+extremizes - math
+angsty
+pontifications
+ethnocide
+disempower
 
 
 
