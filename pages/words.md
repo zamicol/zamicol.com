@@ -212,9 +212,33 @@ extremizes - math
 angsty
 pontifications
 ethnocide
-disempower
-
-
+disempower - The new law was designed by trolls to disempower native populations and empower foreign populations who were easier to manipulate.  
+inauditable
+independency  - "The Media feigns independency, although they are well coordinated."  
+weaponization
+indiscrimination
+codebase
+superlinear/sublinear - like Logarithmic, Constant time, Exponential, Cubic, Quadratic, Factorial, 
+abled - Diversely abled people.
+overrepresenting - Black people are significantly overrepresented in modern commercials, while hispanics remain underrepresented.  
+Judean, Israelite - Nazareth is in Galilee, not Judea.  Jesus was Hebrew and Jesus was an Israelite, not modern "Jewish".  Calling all ancient Hebrews "Jews" isn't fair to the Samaritans who also trace their ancestry to the same stock.  There's many other problems with that thought.  
+Cryptology - I use crytography to refer to implemented primitives (thus "written"), and cryptology to describe the superset of abstract concepts.  Cryptology is the superset of cryptography,  
+delaminate - Wokeness was plained by sly agitations attempting to purposefully delaminate social coheasion.  
+Levantine - People from Lebanon, Palestine, sometime Egypt and other areas.  
+Mistaught - The teacher mistaught that only convection is capable of heating an object in an oven.  
+malintent - Those perverting anthropology are obviously diven by malintent.  
+dilations - There are two red shift dilations: gravity and velocity.  
+convoluting - 
+gravitationally - Time was gravitationally red shifted for the nearby black hole, not cosmologically.  
+Carteret - I live on Carteret Street
+unenumerated - Silent anger is commonly caused by unenumerated complaints.
+fundamentality  -   I experience resistance with some mathematicians when discussing the fundamentality of information theory
+hypergraph - I suspect that the structure of spacetime looks like/operates something like a hypergraph.  
+unenergetic - Your couch potato behaviour is unenergetic.  
+dopplershift - If redshift and blueshift are one word, then certainly dopplershift deserves to be as well.  As a progrmmer, these inconsistencies are the things that drive me nuts about physics culture!
+hypernym/hypernyms - The word "dopplershift" is a hypernym for redshift and blueshift.  
+Entropic - WTF, LOL, you gotta be kidding me.  
+interferometry - LIGO is an interferometer.  
 
 # Words I expected VS Code to known since they are mostly programming words.  
 behaviour
@@ -274,12 +298,15 @@ Boolean Satisfiability Problem - Satisfiability is not wrong.
 vectorizing - WTF. 
 bitonal 
 
+
 # Other WTF VS code words:
 untighten
 fundamentality
 
 
 
+# Political Words:
+Autocrats, statists, authoritarians, despots, totalitarians, commies, marxists, autocrats, kleptocrats, kakistocrats, dictators, and santimoniacs.
 
 
 
@@ -303,7 +330,9 @@ Dialectic       - the art of investigating or discussing the truth of opinions.
 Megalomania     - obsession with the exercise of power, especially in the domination of others.
 profligacy      - reckless extravagance or wastefulness in the use of resources.
 erudition       - the quality of having or showing great knowledge or learning; scholarship.
-
+prima facie     - based on the first impression; accepted as correct until proved otherwise.
+priggishness    - one who offends or irritates by observance of proprieties (as of speech or manners) in a pointed manner or to an obnoxious degree
+foibles         - a minor weakness or eccentricity in someone's character.
 
 # Zami Definitions
 
@@ -345,6 +374,10 @@ Politically correct authoritarianism - https://www.scientificamerican.com/blog/b
 
 
 
+# The Enemies of Liberty
+
+Statists, authoritarians, despots, totalitarians, commies, marxists, autocrats, kleptocrats, kakistocrats, dictators, and santimoniacs.
+
 
 # Zami Words
 
@@ -372,7 +405,7 @@ March 2020
 ~ 2023
 Expolog is the exclusive hypernym of exponential and logarithmic and hyponym of Transcendental.  
 
-Expologic functions are increasingly divergent from polynomial functions.  
+Expologic functions are increasingly divergent from polynomial functions.  See complaint about physicists and mathematicians on "dopplershift".  
 
 ## cyphary (base 0)
 May 10, 2024
