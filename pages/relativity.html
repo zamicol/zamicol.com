@@ -110,14 +110,15 @@
 						<a href="https://en.wikipedia.org/wiki/Mass_in_general_relativity#Review_of_mass_in_special_relativity">Relativistic
 							mass</a>
 						<br />
-						`m = root()(E^2 - (p^2c^2)/c^2`
+						`m = root()(E^2 - (p^2c^2)/c^2` 
 					</div>
 				</div>
 				<div class="column">
 					<div class="box has-text-centered">
 						<a href="https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence">Rest mass energy equivalence</a>
 						<br />
-						` E = mc^2`
+						` E = mc^2` <br>
+						`E^2 = (pc)^2 + (mc^2)^2`
 					</div>
 				</div>
 			</div>
@@ -126,10 +127,14 @@
 				<div class="column">
 					<div class="box has-text-centered">
 						<a href="https://en.wikipedia.org/wiki/Lorentz_factor#Definition">
-							Time, relativistic mass, energy, luminosity, and more.</a>
+							Time, relativistic mass, kinetic energy, momentum, luminosity, and more</a>
 						<br />
 
 						`"time'" = "time"/root()(1-v^2/c^2) " or "t' = gammat`
+
+						<br/><br/>
+						t' is the moving frame (spaceship)<br/>
+						t is the stationary frame (observer on Earth)
 					</div>
 				</div>
 				<div class="column">
@@ -137,12 +142,17 @@
 						<a href="https://en.wikipedia.org/wiki/Length_contraction"> Length</a>
 						<br />
 
-						`"ℓ'" = "ℓ"root()(1-v^2/c^2) " or "ℓ' = ℓ/gamma`
+						`"ℓ'" = "ℓ"root()(1-v^2/c^2) " or "ℓ' = (ℓ)/gamma`
+						<br /><br />
+						l' is the length in the moving frame (spaceship)<br/>
+						l is the rest frame length (proper length)(Earth)
 					</div>
 				</div>
 				<div class="column">
-					<div class="box has-text-centered">
+					<div class="box has-text-centered" comment="g'=γg or g'=g/γ, depending on perspective">
 						`"gravity'" = "gravity"/root()(1-v^2/c^2) " or "g' = gammag`
+
+
 					</div>
 				</div>
 			</div>
@@ -151,7 +161,7 @@
 			<div class="box">
 				<h2 class="title is-4">Velocity Time Dilation Playground</h2>
 				<form name="lor">
-					<strong>Frame</strong>
+					<strong>Frame (proper frame)</strong>
 					<br>
 					Time: &nbsp;&nbsp;&nbsp;&nbsp;<input type=text name="tIn" value="1">
 					<br>
@@ -184,7 +194,7 @@
 					<div class="columns">
 						<div class="column ">
 							<div class="box frame1">
-								<strong>Frame 1 </strong>
+								<strong>Frame 1 (+v perspective)</strong>
 								<br />
 								Time': &nbsp;&nbsp;&nbsp;&nbsp;<input type=text class="tOut" disabled>
 								<br>
@@ -197,7 +207,7 @@
 						</div>
 						<div class="column">
 							<div class="box frame2">
-								<strong>Frame 2 </strong>
+								<strong>Frame 2 (-v perspective)</strong>
 								<br />
 								Time': &nbsp;&nbsp;&nbsp;&nbsp;<input type=text class="tOut" disabled>
 								<br>
@@ -338,10 +348,10 @@
 					</div>
 					<div class="columns help is-mobile">
 						<div class="column">
-							Tiny
+							Low Mass
 						</div>
 						<div class="column has-text-right">
-							Massive
+							High Mass
 						</div>
 					</div>
 
@@ -350,10 +360,10 @@
 					</div>
 					<div class="columns help is-mobile">
 						<div class="column">
-							Small
+							Small Radius
 						</div>
 						<div class="column has-text-right">
-							Large
+							Large Radius
 						</div>
 					</div>
 
@@ -551,11 +561,18 @@
 			</div>
 
 			<h1 class="title is-2">Interesting Papers</h1>
+
+			Find papers using https://scholar.archive.org
 			<div class="content">
-				<h5> Landauer's 1961 paper:</h5>
-				<ul>
+				<h5> Landauer's 1961 paper:
 					<a href="../assets/papers/Landauer_1961_Irreversibility_and_Heat_Generation_in_the_Computing_Process.pdf">Irreversibility and Heat Generation in the Computing Process</a>
-				</ul>
+				</h5>
+
+
+				<a href="../assets/papers/bennett thermodynamics of computation 1982.pdf">
+					"The Thermodynamics of Computation--a Review" Charles H. Bennett, IBM 1981</a>
+				<br><br>
+
 				<h5><a href="https://scholar.google.com/citations?hl=en&user=YjR6xkkAAAAJ&view_op=list_works&sortby=pubdate"> Alexandre Deur Work</a>, in particular:</h5>
 				<ul>
 					<li><a href="https://arxiv.org/abs/2301.10861">Hubble Tension and Gravitational Self-Interaction</a></li>

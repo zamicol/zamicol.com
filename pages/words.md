@@ -155,7 +155,7 @@ disproven - The past participle disproven is often proscribed in favor of dispro
 Sheesh
 blueshift
 lightyear
-redshift
+redshift, redshifting
 maternalistic but paternalistic is known WTF Google!
 Monoculture
 statism
@@ -195,7 +195,7 @@ holographically
 kleptocrats, Statists  -LOL of course Google would say "kleptocrats" isn't a word!
 Elon
 unpowered
-photonically
+photonically, photonic
 blunderous
 luminiferous aether - wtf
 Bohmian mechanics
@@ -239,6 +239,8 @@ dopplershift - If redshift and blueshift are one word, then certainly dopplershi
 hypernym/hypernyms - The word "dopplershift" is a hypernym for redshift and blueshift.  
 Entropic - WTF, LOL, you gotta be kidding me.  
 interferometry - LIGO is an interferometer.  
+unmeasurable - WTF another crazy one.  Local effects of gravity are typically unmersurable.  
+uncredible - The witness was uncredible so the DOJ did not press charges.  
 
 # Words I expected VS Code to known since they are mostly programming words.  
 behaviour
