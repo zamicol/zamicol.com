@@ -241,6 +241,7 @@ Entropic - WTF, LOL, you gotta be kidding me.
 interferometry - LIGO is an interferometer.  
 unmeasurable - WTF another crazy one.  Local effects of gravity are typically unmersurable.  
 uncredible - The witness was uncredible so the DOJ did not press charges.  
+unconveyable - The whale knew secrets unconveyable to the land dweller.  
 
 # Words I expected VS Code to known since they are mostly programming words.  
 behaviour
