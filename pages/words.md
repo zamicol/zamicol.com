@@ -242,6 +242,16 @@ interferometry - LIGO is an interferometer.
 unmeasurable - WTF another crazy one.  Local effects of gravity are typically unmersurable.  
 uncredible - The witness was uncredible so the DOJ did not press charges.  
 unconveyable - The whale knew secrets unconveyable to the land dweller.  
+majuscule, minuscule - WTF.   Also "coining" riDiCULe for mixed case.  (I perfer ridicule over riducule)
+hypercomplex - Quaternions, Octonions, sedenions, and higher.  (See also my term, "complexic" which includes complex numbers and Quaternions like hypercomplex numbers)  See also "Cayley–Dickson construction".
+Quaternions, Octonions - WTF. 
+gimbal lock 
+dimensionality
+Fundamentality
+sockpuppetry
+heartedly
+politicalization - No, not Politicisation, the "z" is phonetically correct.  
+
 
 # Words I expected VS Code to known since they are mostly programming words.  
 behaviour
@@ -327,6 +337,7 @@ drivel          - talk nonsense.
 mendacity       - untruthfulness; lying.
 raison d'etre   - the most important reason or purpose for someone or something's existence.
 ceteris paribus - all things being equal
+post facto/post factum - After the fact.
 sophistry       - the use of fallacious arguments, especially with the intention of deceiving.
 Isomorphic      - Math functions, programs, philosophic ideas that are interchangeably equivalent (although they may require some conversion)
 Dialectic       - the art of investigating or discussing the truth of opinions.
@@ -336,6 +347,7 @@ erudition       - the quality of having or showing great knowledge or learning; 
 prima facie     - based on the first impression; accepted as correct until proved otherwise.
 priggishness    - one who offends or irritates by observance of proprieties (as of speech or manners) in a pointed manner or to an obnoxious degree
 foibles         - a minor weakness or eccentricity in someone's character.
+capricious      - given to sudden and unaccountable changes of mood or behavior.
 
 # Zami Definitions
 
@@ -452,6 +464,13 @@ Just because Benito Mussolini used propaganda to pervert a word to add a positiv
 He was a despot.  He must be resisted.  
 
 Reasonable historians and journalism can do much better safeguarding language.  Engineers shouldn't have to clean up their mess.  We're not the ones with degrees in English.  
+
+
+# Complexics 2025/1/13
+Complexics (n.): The family of number systems that follow the Cayley-Dickson construction, starting with complex numbers, continuing through quaternions, octonions, and all subsequent powers of two constructions but excludes other hypercomplex numbers.
+
+
+Scope limited hypernym for complex numbers and higher dimensional complex numbers, quaternions, octonions, sedenions, and the doublings beyond.  See my blog, "How Information Theory Explains Why Complex Numbers Don't Have a Third Dimension."  I considered using "Complexoids".  
 
 
 
