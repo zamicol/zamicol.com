@@ -250,7 +250,39 @@ dimensionality
 Fundamentality
 sockpuppetry
 heartedly
-politicalization - No, not Politicisation, the "z" is phonetically correct.  
+politicalization - No, not Politicisation, the "z" is phonetically correct.  "The politicalization of the middle school resulted in morbidly obese, purple hair, transvestite children."
+myocarditis
+unempathetic
+ethnicities - WTF!!!!!!!!!!!!!!!!! Google, you're dumb!
+recut - The documentary was recut with the inaccuracies removed.  
+preprint
+Malabsorption
+cyanocobalamin
+hearted - His welcome was full hearted.  His kiss goodbye was half hearted.  
+subdirectory
+decypher - NO to decipher.  
+blowback - The CIA arrogantly tried to fund the media even after the laws designed to limit such interference after project mocking bird because they think they are above the law because "they're serving the country".  In reality, they destructive actions remove the legitimacy of governance.  The public wanting to close down many legitimate functions of government due to CIA corruption is blowback for their hubris.  
+unnavigable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Words I expected VS Code to known since they are mostly programming words.  
@@ -310,6 +342,7 @@ summated wtf.
 Boolean Satisfiability Problem - Satisfiability is not wrong.  
 vectorizing - WTF. 
 bitonal 
+adherers
 
 
 # Other WTF VS code words:
@@ -473,9 +506,15 @@ Complexics (n.): The family of number systems that follow the Cayley-Dickson con
 Scope limited hypernym for complex numbers and higher dimensional complex numbers, quaternions, octonions, sedenions, and the doublings beyond.  See my blog, "How Information Theory Explains Why Complex Numbers Don't Have a Third Dimension."  I considered using "Complexoids".  
 
 
+#  2025/01/28
+To misrepresent with evil or malicious intent.  
 
 
+# Turing Fungible 2025/01/13
+A process that can run on a Turing machine can run on any Turing machine.  That process is Turing fungible.  
 
+The human brain appears to be Turing fungible.  
+https://x.com/Zamicol/status/1878840511286632744
 
 
 
