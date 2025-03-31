@@ -257,15 +257,18 @@ ethnicities - WTF!!!!!!!!!!!!!!!!! Google, you're dumb!
 recut - The documentary was recut with the inaccuracies removed.  
 preprint
 Malabsorption
-cyanocobalamin
+cyanocobalamin, methylcobalamin, methylated, methylfolate - Cyanocobalamin is the crap synthetic B12, methylcobalamin is the good B12.  The methylated B9 and B12 are the good ones.  
 hearted - His welcome was full hearted.  His kiss goodbye was half hearted.  
 subdirectory
 decypher - NO to decipher.  
 blowback - The CIA arrogantly tried to fund the media even after the laws designed to limit such interference after project mocking bird because they think they are above the law because "they're serving the country".  In reality, they destructive actions remove the legitimacy of governance.  The public wanting to close down many legitimate functions of government due to CIA corruption is blowback for their hubris.  
 unnavigable
-
-
-
+rotators - Shape rotators.  
+homeschooled
+lawfare
+Holodomor - Despite Jews making 80-85% of the Bolshevik leadership that killed tens of millions of European Christians, including during the Holodomor, the United States decided to not teach this history to their people.
+empathetically - Mary doesn't treat Bob empathetically.  
+malinformed - To be informed by another with destructive intent - The Democrats were malinformed that the border was not intentionally left open.  The Democrats’ reluctance to recognize the party’s deliberate choice policy to open the borders may be a psychological defense to hide the colossal damage caused by their inconsistent views. 
 
 
 
@@ -381,6 +384,24 @@ prima facie     - based on the first impression; accepted as correct until prove
 priggishness    - one who offends or irritates by observance of proprieties (as of speech or manners) in a pointed manner or to an obnoxious degree
 foibles         - a minor weakness or eccentricity in someone's character.
 capricious      - given to sudden and unaccountable changes of mood or behavior.
+obviates        - In practice JSDoc rigid type documentation obviates TypeScript.  
+insuperable     - impossible to overcome.
+banal						- Which is pronounced, bay-nal, Barry.  :P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Zami Definitions
 
@@ -419,6 +440,11 @@ Toxic Compassion is the prioritization of short term emotional comfort over
 long-term outcomes
 
 Politically correct authoritarianism - https://www.scientificamerican.com/blog/beautiful-minds/the-personality-of-political-correctness/
+
+
+## Pareto principle
+Pareto principle: The Pareto principle states that for many outcomes, roughly 80% of consequences come from 20% of causes (the "vital few")
+
 
 
 
@@ -511,7 +537,7 @@ To misrepresent with evil or malicious intent.
 
 
 # Turing Fungible 2025/01/13
-A process that can run on a Turing machine can run on any Turing machine.  That process is Turing fungible.  
+A process that can run on a Turing machine can run on any Turing machine.  That process is Turing fungible.  Any process that can run on a Turing complete machine is Turing fungible.  
 
 The human brain appears to be Turing fungible.  
 https://x.com/Zamicol/status/1878840511286632744
@@ -550,7 +576,47 @@ Feasible: Under given conditions, likely to be possible without excessive or unf
 
 
 
-Pareto principle: The Pareto principle states that for many outcomes, roughly 80% of consequences come from 20% of causes (the "vital few")
+# The Devious Scale (Also called the Nefarious scale)
+glorious
+veracious
+righteous 
+prodigious
+victorious
+marvelous
+portentous
+momentous
+propitious
+auspicious
+
+ambagious
+circuitous
+mischievous 
+jeopardous
+precarious
+devious 
+disingenuous
+hazardous
+duplicitous
+dangerous
+inauspicious
+
+
+parlous
+perilous
+treacherous
+traitorous
+ominous
+insidious
+malicious 
+mendacious
+perfidious
+nefarious  
+
+
+
+
+
+
 
 
 
@@ -563,13 +629,21 @@ Urban Monoculture - The worldwide woke, anti-truth, and low birthrate urban cult
 AWFUL: Affluent White Female Urban Liberals
 
 ## Wokeness Definition of Woke
-Woke: Wokeness, also termed the "woke mind virus", is a political strategy and
-culture that's chiefly characterized by the rejection of personal responsibility
-and merit, and embrace of victimhood identity. Woke has an external locus of
+Woke:  A political strategy and culture that's chiefly characterized by the
+rejection of personal responsibility and merit and embrace of victimhood
+identity. Wokness is justified by the dogma that all moral failure originates
+from oppression and rejects an internal locus of control.
+
+
+Therefore, some groups don't succeed because of inequality.
+
+Wokeness, also termed the "woke mind virus",
+
+Woke has an external locus of
 control and rejects the existence of an internal locus of control.
 
 The woke dogma is that all inequality in the world comes from oppression.
-Therefore, some groups don't succeed because of inequality.  
+Therefore, some groups don't succeed because of inequality.
 
 
 Wokeness quickly asserts blame to others instead of assigning blame
@@ -648,6 +722,20 @@ Witche's
 # "schwords"
 
 Schmoove move
+Schtupid
+
+
+
+
+
+
+
+
+# Sayings
+We are stronger together than alone.  
+
+
+
 
 
 
