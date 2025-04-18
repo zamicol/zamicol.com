@@ -269,8 +269,9 @@ lawfare
 Holodomor - Despite Jews making 80-85% of the Bolshevik leadership that killed tens of millions of European Christians, including during the Holodomor, the United States decided to not teach this history to their people.
 empathetically - Mary doesn't treat Bob empathetically.  
 malinformed - To be informed by another with destructive intent - The Democrats were malinformed that the border was not intentionally left open.  The Democrats’ reluctance to recognize the party’s deliberate choice policy to open the borders may be a psychological defense to hide the colossal damage caused by their inconsistent views. 
-
-
+dumbing - Thanks for dumbing that down for me.
+malallocation - Purposely bad allocation of resources.  Misallocation is just that it happened, not necessarily without motive.  Malallocation is intentional. 
+Sunchokes
 
 
 
@@ -544,11 +545,41 @@ https://x.com/Zamicol/status/1878840511286632744
 
 
 
+# decitrillionaires, hectobillionaires 2025/04/16 
+
+I've been hearing people call Elon and others "centibillionaires".  
+
+They are decitrillionaires or hectobillionaires. "Centibillionaire" is going the wrong direction.
+
+Another example of the SI system being anti-ergonomic.
+
+
+
+# cognitive empathy and emotive empathy(sometime in 2024)
+
+Emotive Empathy: The ability to feel and share another person's emotions, experiencing their emotional state as if it were one's own. It involves an emotional resonance or connection, often leading to a visceral sense of what the other person is feeling.
+
+Cognitive Empathy: The ability to understand and model another person's mental state, perspective, or thought processes logically, explicitly excluding any emotional involvement or influence.
+
+Many people have no concept that cognitive empathy exists.  Their understanding of empathy is solely emotive.  They have no comception that people model the mental state of others to better understand their perspective.
+
+The thing that cognitive modelers quickly discover is that many people have **no** mental process.  They are merely emotional beings, acting solely in the moment, based on how they feel.  That's why they have no concept of a mental process.  The idea of systematically and quantitatively evaluation a situation befor making dicisions is a foreign concept.
+
+When they meet cognitive modelers, it's like meeting an alien.  The results of their careful and stratigic actions seem like magic.  
 
 
 
 
 
+
+
+
+
+
+
+
+Cognitive empathy" is the name for modeling the mental, logical process, not feelings or emotion. 
+I've been enumerating the distinction using "emotive empathy" as its counterpart.
 
 
 
