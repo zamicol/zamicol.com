@@ -257,7 +257,7 @@ ethnicities - WTF!!!!!!!!!!!!!!!!! Google, you're dumb!
 recut - The documentary was recut with the inaccuracies removed.  
 preprint
 Malabsorption
-cyanocobalamin, methylcobalamin, methylated, methylfolate - Cyanocobalamin is the crap synthetic B12, methylcobalamin is the good B12.  The methylated B9 and B12 are the good ones.  
+cyanocobalamin, methylcobalamin, methylated, methylfolate, methylation, folate, cobalamin - Cyanocobalamin is the crap synthetic B12, methylcobalamin is the good B12.  The methylated B9 and B12 are the good ones.  
 hearted - His welcome was full hearted.  His kiss goodbye was half hearted.  
 subdirectory
 decypher - NO to decipher.  
@@ -272,18 +272,18 @@ malinformed - To be informed by another with destructive intent - The Democrats 
 dumbing - Thanks for dumbing that down for me.
 malallocation - Purposely bad allocation of resources.  Misallocation is just that it happened, not necessarily without motive.  Malallocation is intentional. 
 Sunchokes
-
-
-
-
-
-
-
-
-
-
-
-
+There was a word that I just had that I forgot to copy that is so basic it was shocking. Darn!  Lost. 
+mediumly - I'm a mediumly agreesive driver. 
+Hellscape - Dating apps for Millennial men are hellscapes.
+reframed - The Bolsheviks hatefully reframe the virtue of Western civilization as evil.
+unapologetically - I'm sick of the Bolsheviks/the left's hate so now I am going to unapologetically shine. 
+victimhood - The Jews, loosing support through secularism, needed a new religious, which was provided by the victimhood of the Jewish Holocaust.
+Nakba - The Nakba was the 1948 ethnic cleansing of Palestinian Arabs by Jewish Israel.
+idempotency - Refers to the property of a request or operation that, when executed multiple times, produces the same result as when it is executed once.
+overprescribing - Big pharma is overprescribing the dosage so they can make more money. 
+uncriticized - His evil dogma was uncriticized by his own tribe, showing it's braod acceptance amoung his in-group. 
+counterfactuals - The argument ignored counterfactuals
+delegitimizes - His dogma tried to delegitimize the existence of any form or notion of European peoples.  
 
 
 
@@ -347,11 +347,30 @@ Boolean Satisfiability Problem - Satisfiability is not wrong.
 vectorizing - WTF. 
 bitonal 
 adherers
-
-
-# Other WTF VS code words:
 untighten
 fundamentality
+patrilineal
+expressivity
+malintent
+walkable
+interpersonally
+
+
+
+
+
+
+
+
+
+
+
+
+# STOP USING THEIR CORRUPTION OF LANGAUGE WORDS
+"Capitalism" - Rest in piss Marx, Long Live Free Markets
+"Liberal" - LOL no you arn't, I'm a liberal.  Rest in piss FDR.  
+"Fascists" - LOL, look at a Mercury dime, look behind the Speaker.  Rest in piss Bolsheviks.  
+
 
 
 
@@ -388,6 +407,7 @@ capricious      - given to sudden and unaccountable changes of mood or behavior.
 obviates        - In practice JSDoc rigid type documentation obviates TypeScript.  
 insuperable     - impossible to overcome.
 banal						- Which is pronounced, bay-nal, Barry.  :P
+demonym         - Name of a person of a place, Puebloan, Coloradan.  
 
 
 
@@ -395,63 +415,6 @@ banal						- Which is pronounced, bay-nal, Barry.  :P
 
 
 
-
-
-
-
-
-
-
-
-
-# Zami Definitions
-
-Stochastic terrorism: Agents in power allowing existing danger to grow and doing less than required to stop the violence.  
-
-Stochastic terrorism is taking advantage of latent violence to accomplish goals.
-Purposing acting, including through attrition or acts of omission, in a way that
-enables latent violence to be more successful is stochastic terrorism.  .
-For example, Team blue took advantage of stochastic terrorism by not reporting
-that a conference attendy had a gun.  They also didn't have enough people
-manning the metal detectors and knew with statistical certainty eventually a nut
-job would slip in.  
-
-
-
-# Concepts
-Cyclomatic complexity - a software metric used to indicate the complexity of a
-program. 
-
-Pigeonhole principle - In the domain of compression the pigeonhole
-principle states that for all compression algorithms, some outputs will be
-*larger* than the inputs. 
-
-euphemism treadmill   - euphemisms themselves become
-taboo words, so new ones are needed.  People that don't rage against this
-ridiculousness are dumb and generally uninteresting.  
-
-Late stage bureaucracy.  (Alternatively late state bureaucracy, a A double entendre)
-A political philosophy marked by anti-liberty, anti-meritocratic, anti-rule of
-(simple) law, anti-individual/minority rights, and pro-government control,
-pro-tyranny-of-the-majority, pro-war.  
-🫣 Late stage capitalism?  
-🫵 Late state bureaucracy.
-
-Toxic Compassion is the prioritization of short term emotional comfort over
-long-term outcomes
-
-Politically correct authoritarianism - https://www.scientificamerican.com/blog/beautiful-minds/the-personality-of-political-correctness/
-
-
-## Pareto principle
-Pareto principle: The Pareto principle states that for many outcomes, roughly 80% of consequences come from 20% of causes (the "vital few")
-
-
-
-
-# The Enemies of Liberty
-
-Statists, authoritarians, despots, totalitarians, commies, marxists, autocrats, kleptocrats, kakistocrats, dictators, and santimoniacs.
 
 
 # Zami Words
@@ -509,12 +472,21 @@ Base 1 (unary) is interesting from base 0's perspective because it's capable of 
 A zero sided dice doesn't exist.  There's no ability to learn anything, not even a single bit of information, from a zero sided dice.  Base 0 is the non-transmittal of information.  
 
 
+## Late stage bureaucracy.  
+(Alternatively late state bureaucracy, a A double entendre)
+A political philosophy marked by anti-liberty, anti-meritocratic, anti-rule of
+(simple) law, anti-individual/minority rights, and pro-government control,
+pro-tyranny-of-the-majority, pro-war.  
+🫣 Late stage capitalism?  
+🫵 Late state bureaucracy.
+
+
 ## sanctimoniac 2024/06/09
 A person characterized by or prone to excessive or hypocritical displays of sanctimony; someone who frequently adopts a holier-than-thou attitude, self-righteousness, or moral superiority.
 
 
 
-# Despostatist 2024/7/11
+## Despostatist 2024/7/11
 Also "dictastatist", "desponationalist", "dictanational"
 
 George Orwell said, "As used, the word 'Fascism' is almost entirely meaningless. ...  almost any English person would accept 'bully' as a synonym for  'Fascist.'"
@@ -526,18 +498,26 @@ He was a despot.  He must be resisted.
 Reasonable historians and journalism can do much better safeguarding language.  Engineers shouldn't have to clean up their mess.  We're not the ones with degrees in English.  
 
 
-# Complexics 2025/1/13
+## Complexics 2025/1/13
 Complexics (n.): The family of number systems that follow the Cayley-Dickson construction, starting with complex numbers, continuing through quaternions, octonions, and all subsequent powers of two constructions but excludes other hypercomplex numbers.
 
 
 Scope limited hypernym for complex numbers and higher dimensional complex numbers, quaternions, octonions, sedenions, and the doublings beyond.  See my blog, "How Information Theory Explains Why Complex Numbers Don't Have a Third Dimension."  I considered using "Complexoids".  
 
+## Binions and Unions 2025/1/22 - ish
 
-#  2025/01/28
+Following "quaternions" and "octonions", imaginary numbers should be called "binions", and in this context, the reals are "unarions" .  The reals are "single dimensional numbers", the bionions are "two dimensional numbers".  
+
+(I wanted YOO-nee-unz, "unions" but the spelling already exists (like work "unions"). Instead of other silly spellings, unnions is stealing the first syllable sound but the first and second syllable spelling, bad practice. Unyons would be better, but breaks the pattern. 
+
+I wanted "YOO-nee-unz", "unions", but it's a spelling for too common of a word.  Unnions takes the first syllable sound but the first and second spelling, bad practice.  Other spellings break the pattern, thus unarions is the winner, keeps the pattern, clear, more expressive at the cost of a syllable.  I consider the tradeoff with being more expressive acceptable. 
+
+
+##  2025/01/28
 To misrepresent with evil or malicious intent.  
 
 
-# Turing Fungible 2025/01/13
+## Turing Fungible 2025/01/13
 A process that can run on a Turing machine can run on any Turing machine.  That process is Turing fungible.  Any process that can run on a Turing complete machine is Turing fungible.  
 
 The human brain appears to be Turing fungible.  
@@ -545,7 +525,7 @@ https://x.com/Zamicol/status/1878840511286632744
 
 
 
-# decitrillionaires, hectobillionaires 2025/04/16 
+## decitrillionaires, hectobillionaires 2025/04/16 
 
 I've been hearing people call Elon and others "centibillionaires".  
 
@@ -555,17 +535,51 @@ Another example of the SI system being anti-ergonomic.
 
 
 
-# cognitive empathy and emotive empathy(sometime in 2024)
+## cognitive empathy and emotive empathy(sometime in 2024)
 
-Emotive Empathy: The ability to feel and share another person's emotions, experiencing their emotional state as if it were one's own. It involves an emotional resonance or connection, often leading to a visceral sense of what the other person is feeling.
+Emotive Empathy: The ability to feel and share another person's emotions,
+experiencing their emotional state as if it were one's own. It involves an
+emotional resonance or connection, often leading to a visceral sense of what the
+other person is feeling.
 
-Cognitive Empathy: The ability to understand and model another person's mental state, perspective, or thought processes logically, explicitly excluding any emotional involvement or influence.
+Cognitive Empathy: The ability to understand and model another person's mental
+state, perspective, or thought processes logically, explicitly excluding any
+emotional involvement or influence.
 
-Many people have no concept that cognitive empathy exists.  Their understanding of empathy is solely emotive.  They have no comception that people model the mental state of others to better understand their perspective.
+Many people have no concept that cognitive empathy exists.  Their understanding
+of empathy is solely emotive.  They have no comception that people model the
+mental state of others to better understand their perspective.
 
-The thing that cognitive modelers quickly discover is that many people have **no** mental process.  They are merely emotional beings, acting solely in the moment, based on how they feel.  That's why they have no concept of a mental process.  The idea of systematically and quantitatively evaluation a situation befor making dicisions is a foreign concept.
+The thing that cognitive modelers quickly discover is that many people have
+**no** mental process.  They are merely emotional beings, acting solely in the
+moment, based on how they feel.  That's why they have no concept of a mental
+process.  The idea of systematically and quantitatively evaluation a situation
+befor making dicisions is a foreign concept.
 
-When they meet cognitive modelers, it's like meeting an alien.  The results of their careful and stratigic actions seem like magic.  
+When they meet cognitive modelers, it's like meeting an alien.  The results of
+their careful and stratigic actions seem like magic.  
+
+Cognitive empathy" is the name for modeling the mental, logical process, not
+feelings or emotion. I've been enumerating the distinction using "emotive
+empathy" as its counterpart.
+
+
+## Soharan (Sometime in 2023) 
+Someone from or with ancestry from Sub-Saharan Africa.  It means "Sub-Saharans",
+however, since it will almost certinaly "sub" will eventually be politically
+criticized, "Soharan" is a pormantue of "South of the Sahara", "Soharan".
+
+African used to mean "Sub-Saharan", especially based on context.  However,
+Americans are dumber than ever so a more precise word is required. 
+
+I also suggest  "soharia" over "sub-saharia".
+
+
+
+
+## "IQ stratification hypothesis"
+
+Some smart people think all other people are smart like them because they never go outside.  This faulty assumption results in a poor mental model of the real world.  They tend to over 
 
 
 
@@ -576,11 +590,73 @@ When they meet cognitive modelers, it's like meeting an alien.  The results of t
 
 
 
+# FIX ENGLISH, GAWD DAMN!
+## Fixing the ridiculous spellings in the English Language. 
+
+I'm 110% for getting rid of **all written English language** and starting over with a better, consonate based alphabet.  
+In lieu of that, here's some fixes of a written language that desperately needs it.  
 
 
-Cognitive empathy" is the name for modeling the mental, logical process, not feelings or emotion. 
-I've been enumerating the distinction using "emotive empathy" as its counterpart.
+## Filipino/Philippines
+It should either be "The Felipines" or the demonym should be "Philipino".  
 
+Using a Greek root (Philippus) for a Spanish name (Felipe) is silly, causing two issues: the Ph/F and the p/pp.  Filipino is the most correct, so it should be the Felipines or Filipines.
+
+
+# ACTION (in physics)
+Computation is the result of intentional state change. State change in such context is correctly named "action". Although the polysemous "action" is overloaded in physics, this is the most correct context for the word.
+
+
+# "Yours" and "Ours" need apostrophes
+"Is that your's? No, it's our's."
+
+# Gotten vs Got
+I like gotten better, just like oxen.
+
+
+
+
+
+
+
+
+
+
+# Zami Definitions
+
+Stochastic terrorism: Agents in power allowing existing danger to grow and doing less than required to stop the violence.  
+
+Stochastic terrorism is taking advantage of latent violence to accomplish goals.
+Purposing acting, including through attrition or acts of omission, in a way that
+enables latent violence to be more successful is stochastic terrorism.  .
+For example, Team blue took advantage of stochastic terrorism by not reporting
+that a conference attendy had a gun.  They also didn't have enough people
+manning the metal detectors and knew with statistical certainty eventually a nut
+job would slip in.  
+
+# The Enemies of Liberty
+Statists, authoritarians, despots, totalitarians, commies, marxists, autocrats, kleptocrats, kakistocrats, dictators, and santimoniacs.
+
+
+# Concepts
+Cyclomatic complexity - a software metric used to indicate the complexity of a
+program. 
+
+Pigeonhole principle - In the domain of compression the pigeonhole
+principle states that for all compression algorithms, some outputs will be
+*larger* than the inputs. 
+
+euphemism treadmill   - euphemisms themselves become
+taboo words, so new ones are needed.  People that don't rage against this
+ridiculousness are dumb and generally uninteresting.  
+
+Toxic Compassion is the prioritization of short term emotional comfort over
+long-term outcomes
+
+Politically correct authoritarianism - https://www.scientificamerican.com/blog/beautiful-minds/the-personality-of-political-correctness/
+
+## Pareto principle
+Pareto principle: The Pareto principle states that for many outcomes, roughly 80% of consequences come from 20% of causes (the "vital few")
 
 
 

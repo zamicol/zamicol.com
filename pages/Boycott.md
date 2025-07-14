@@ -12,8 +12,12 @@ GoFundMe for all sorts of censorship.  GoFundMe censored radiogenoa's legal defe
 https://www.gofundme.com/account/impact/vwdk3p-legal-defense-fund-for-radiogenoa
 
 
+# Episcopal Church
+Episcopal Church for discriminating against white afrikaners.
 
 
+
+Sony, for the rootkit scandal that they never apologized for.  https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal
 
 
 
@@ -22,11 +26,7 @@ https://www.gofundme.com/account/impact/vwdk3p-legal-defense-fund-for-radiogenoa
 
 Past Boycots:
 
-Sony, for the rootkit scandal that they never apologized for.  https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal
-
-
-
-
+No one here yet...
 
 
 
