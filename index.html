@@ -9,6 +9,8 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
 
 
+
+
 </head>
 
 <body>
@@ -271,11 +273,11 @@
 <br>
 <br>
 <br>
-<h4> This is how I think the Universe works:</h4>
+<h4 id="UniverseWorks"><a href="#UniverseWorks">This is how I think the Universe works:</a></h4>
 
 <pre class="text-start">
 Current digest of this: D8965F0370A4A26B36E296EE49539B55C160C120668C6E16F2FF4816F3A1EF50
-Use this to create this digest: https://convert.zamicol.com/#?inAlph=text&outAlph=Hash%253ASHA-256
+Use this to create this digest: <a class="DryLink">https://convert.zamicol.com/#?inAlph=text&outAlph=Hash%253ASHA-256</a>
 Space is light.
 Action, that is state change, results in new information, entropy.
 To preserve information, action produces new particles while conserving overall energy.
@@ -336,5 +338,14 @@ Cosmological redshift lacks mechanics, but it isn't real anyway. Redshift is cau
 	<br>
 	<br>
 </body>
+
+<script>
+// This page unfortunately uses some Javascript because HTML is dumb. Javascript is more dumb.  Sorry, it's crap all the way down.
+//Example usage: 
+// Use this to create this digest: <a class="DryLink">https://convert.zamicol.com/#?inAlph=text&outAlph=Hash%253ASHA-256</a>
+document.querySelectorAll('a.DryLink').forEach(a => {
+a.href = a.textContent;
+});
+</script>
 
 </html>
