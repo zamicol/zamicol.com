@@ -16,11 +16,16 @@ https://github.com/Permify/permify
 Links:
 
 # News
-https://www.aporiamagazine.com/
+- https://lobste.rs
+- https://www.aporiamagazine.com
+- https://news.ycombinator.com
+- https://arxiv.org/list/gr-qc/recent
 
 
 
 
+
+# JSON and UTF
 
 UTF-16 code points are out of order.  
 https://icu-project.org/docs/papers/utf16_code_point_order.html
@@ -30,10 +35,9 @@ https://seriot.ch/json/parsing.html
 
 
 
-
-Personal Knowledge Base
-https://obsidian.md - Obsidian is the private and flexible writing app that adapts to the way you think. 
-
+# Phone
+Cheap phone number:
+https://jmp.chat
 
 
 
@@ -68,7 +72,7 @@ https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html
 
 # Cool tools 
 
-Plant Hardiness Zones
+## Plant Hardiness Zones
 https://planthardiness.ars.usda.gov
 
 # Cool Educational Tools
@@ -86,4 +90,9 @@ https://algassert.com/quirk
 
 AI Test:
 https://openpsychometrics.org/tests/FSIQ/
+
+
+
+
+
 

@@ -1,4 +1,12 @@
 
+# The Information
+## James Gleick
+## 920250930
+So far it's really good!  I enjoyed the meandering into topics that seemed unrelated but James is great at tying them back in.
+The book covers a few diverse historical topics and is very light on theory.
+The book is a historical review of the circumstances that lead up to the formation of information theory from Jame's quirky perspective.
+The books isn't technical and isn't too philosophical, although it does touch slightly on philosophy. It touches gently on the idea I'm calling the "information thesis", that information forms the basis of reality. 
+
 
 
 
@@ -35,3 +43,7 @@ Later: Finished the book.  The later chapters were not as hard hitting as the ea
 # Advanced Algorithms and Data Structures
 ##  Marcello La Rocca 
 Not started yet.  
+
+
+
+

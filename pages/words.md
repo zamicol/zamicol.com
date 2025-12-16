@@ -266,7 +266,7 @@ unnavigable
 rotators - Shape rotators.  
 homeschooled
 lawfare
-Holodomor - Despite Jews making 80-85% of the Bolshevik leadership that killed tens of millions of European Christians, including during the Holodomor, the United States decided to not teach this history to their people.
+Holodomor - Despite Jews making 80-85% of the Bolshevik leadership that killed tens of millions of European Christians, including during the Holodomor, the United States decided to not teach this history to their people.  The Holodomor was also covered up by the New York Times. 
 empathetically - Mary doesn't treat Bob empathetically.  
 malinformed - To be informed by another with destructive intent - The Democrats were malinformed that the border was not intentionally left open.  The Democrats’ reluctance to recognize the party’s deliberate choice policy to open the borders may be a psychological defense to hide the colossal damage caused by their inconsistent views. 
 dumbing - Thanks for dumbing that down for me.
@@ -284,6 +284,48 @@ overprescribing - Big pharma is overprescribing the dosage so they can make more
 uncriticized - His evil dogma was uncriticized by his own tribe, showing it's braod acceptance amoung his in-group. 
 counterfactuals - The argument ignored counterfactuals
 delegitimizes - His dogma tried to delegitimize the existence of any form or notion of European peoples.  
+unparseable, unparsable - unable to be parsed.  "The AI spaghetti code was unparseable to even the most skilled developer.  
+technophilic - I want to live in a high fertility, masulinist, technophilic society. 
+unwelcomed - White men have been unwelcomed in academia since the 60's.
+titrated - He titrated up the medication to the next level for his body weight.
+Connotated - "Transistor" is used in computer science gennerally to connotate the logical operation performed by vacuume tubes. 
+Defunded - The feds defunded the far left propaganda rag NPR.
+Mossad - Mossad is the most genocidal force on Earth driving by ethnic supremacy rhetoric.  Their motto is "through deception wage war" which is exactly how a moral, virtuous people operates.
+technicals - Jack didn't know enough of the cryptography technicals needed to write the Bitcoin client.
+Santimoniacs - (Zachism) - The santimoniacs advocated for taxing Americans to give free food infinitely replicating humans.  Soon their weight formed a black hole.
+incentivization - Filecoin is an incentivization layer. 
+reposted - King Bob reposted the warning at every lamp post.
+apocalyptically - Dating in the 2020's is apocalyptically horrific.
+Connotating, connotates, connotates - The word AI can rip the word connotating from my cold dead hands. "Connote" is ugly, "connoting" is uglier. https://x.com/Zamicol/status/1967641607219683504 09/15/2025
+bioavailable - 
+insularly - The ethno-cult worked insularly against the interests of the larger society. 
+incomputable - Turing showed that some problems are incomputable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -354,28 +396,12 @@ expressivity
 malintent
 walkable
 interpersonally
+decentrally
 
 
 
 
 
-
-
-
-
-
-
-
-# STOP USING THEIR CORRUPTION OF LANGAUGE WORDS
-"Capitalism" - Rest in piss Marx, Long Live Free Markets
-"Liberal" - LOL no you arn't, I'm a liberal.  Rest in piss FDR.  
-"Fascists" - LOL, look at a Mercury dime, look behind the Speaker.  Rest in piss Bolsheviks.  
-
-
-
-
-# Political Words:
-Autocrats, statists, authoritarians, despots, totalitarians, commies, marxists, autocrats, kleptocrats, kakistocrats, dictators, and santimoniacs.
 
 
 
@@ -403,14 +429,31 @@ erudition       - the quality of having or showing great knowledge or learning; 
 prima facie     - based on the first impression; accepted as correct until proved otherwise.
 priggishness    - one who offends or irritates by observance of proprieties (as of speech or manners) in a pointed manner or to an obnoxious degree
 foibles         - a minor weakness or eccentricity in someone's character.
-capricious      - given to sudden and unaccountable changes of mood or behavior.
+capricious      - given to sudden and unaccountable changes of mood or behavior.  "Base 10, used by mathematicians, is extremely capricious.  Base 12 all bases that are exponents of 2 are superiour."
 obviates        - In practice JSDoc rigid type documentation obviates TypeScript.  
 insuperable     - impossible to overcome.
 banal						- Which is pronounced, bay-nal, Barry.  :P
-demonym         - Name of a person of a place, Puebloan, Coloradan.  
+demonym         - Name of a person of a place: Puebloan, Coloradan.  
+spendthrifts    - Someone who spends money extravagantly and wastefully, often to their own detriment. "I know a lot of female spendthrifts".
+axiomatic       - Self-evident or unquestionable.  I keep forgetting this one, leaning on "obvious" instead.
 
 
 
+
+
+
+
+
+# STOP USING THEIR CORRUPTION OF LANGAUGE WORDS
+"Capitalism" - Rest in piss Marx, Long Live Free Markets.
+"Liberal" - LOL no you arn't, I'm a liberal.  Rest in piss FDR.
+"Fascists" - LOL, look at a Mercury dime, look behind the Speaker.  Rest in piss Bolsheviks.
+
+
+
+
+# Political Words:
+Autocrats, statists, authoritarians, despots, totalitarians, commies, marxists, autocrats, kleptocrats, kakistocrats, dictators, and santimoniacs.
 
 
 
@@ -436,7 +479,7 @@ The StrawRaspBananaBerry pie mini computer is a fully open source device as all 
 
 ## Masterbet
 March 2020
-"Master Alphabet"  A master alphabet that's useful for truncation for smaller bases.  
+"Master Alphabet"  A master alphabet that's useful for truncation for smaller bases.  Yes, it's tounge-in-cheek
 
 
 ## expolog (expologic, expoligically)
@@ -445,7 +488,7 @@ Expolog is the exclusive hypernym of exponential and logarithmic and hyponym of 
 
 Expologic functions are increasingly divergent from polynomial functions.  See complaint about physicists and mathematicians on "dopplershift".  
 
-## cyphary (base 0)
+## cyphary (base 0) (cypherary)
 May 10, 2024
 The concept of a number base is defined as the number of unique digits used to
 represent a number in a positional numeral system. 
@@ -471,6 +514,18 @@ Base 1 (unary) is interesting from base 0's perspective because it's capable of 
 
 A zero sided dice doesn't exist.  There's no ability to learn anything, not even a single bit of information, from a zero sided dice.  Base 0 is the non-transmittal of information.  
 
+I've been pronouncing it both ways, cyphary and cypherary.  I think cyphary is better because it follows the existing pattern: cyph-ary, un-ary, bi-nary, tern-ary.  It's also funny that it looks like "Zachary", I keep on thinking I'm seeing my name. 
+
+
+## cypharions 
+August 8, 2025
+A zero dimensional number
+
+Cypharions - Complexics of zero dimension. 
+Unarions - Complexics of one dimension. When n=0 it results in the real numbers since 2^0 = 1. 
+Binarions - Complexics of two dimensions. When n=1, 2^1 = 2. 
+Quaternions, Octonion, Sedenion, etc.
+
 
 ## Late stage bureaucracy.  
 (Alternatively late state bureaucracy, a A double entendre)
@@ -481,12 +536,14 @@ pro-tyranny-of-the-majority, pro-war.
 🫵 Late state bureaucracy.
 
 
-## sanctimoniac 2024/06/09
+## sanctimoniac 
+2024/06/09
 A person characterized by or prone to excessive or hypocritical displays of sanctimony; someone who frequently adopts a holier-than-thou attitude, self-righteousness, or moral superiority.
 
 
 
-## Despostatist 2024/7/11
+## Despostatist 
+2024/7/11
 Also "dictastatist", "desponationalist", "dictanational"
 
 George Orwell said, "As used, the word 'Fascism' is almost entirely meaningless. ...  almost any English person would accept 'bully' as a synonym for  'Fascist.'"
@@ -564,7 +621,8 @@ feelings or emotion. I've been enumerating the distinction using "emotive
 empathy" as its counterpart.
 
 
-## Soharan (Sometime in 2023) 
+## Soharan 
+(Sometime in 2023) 
 Someone from or with ancestry from Sub-Saharan Africa.  It means "Sub-Saharans",
 however, since it will almost certinaly "sub" will eventually be politically
 criticized, "Soharan" is a pormantue of "South of the Sahara", "Soharan".
@@ -580,6 +638,101 @@ I also suggest  "soharia" over "sub-saharia".
 ## "IQ stratification hypothesis"
 
 Some smart people think all other people are smart like them because they never go outside.  This faulty assumption results in a poor mental model of the real world.  They tend to over 
+
+
+
+## Censorious 
+August 2025
+Censorious does not mean "the act of censorship", but the etymology fits and we have no decent substitutes. 
+
+This tweet is a proclamation declaring new connotation to censorious meaning "the act of censorship". 
+
+
+
+## Cat in the Hat Engineering
+### Zamicol, 20250501  
+A flawed engineering and project management strategy wherein unresolved issues or poor designs within a project prompt an expansion of scope, generating additional problems and increasing technical debt. This approach, rather than resolving issues through a correct and well-considered initial design, creates a complex web of issues, often manifesting as spaghetti code tentacles that cause widespread complications.
+
+Some organizations are managerially incentivized to embrace Cat in the Hat Engineering, as it provides busy work that creates an appearance of productivity without effectively accomplishing meaningful goals. 
+
+Named after Dr. Seuss’s The Cat in the Hat Comes Back, where the Cat, unable to resolve an initial mess, creates further troubles by displacing the problem elsewhere. 
+
+JavaScript frequently exemplifies this phenomenon, as efforts to address its original shortcomings spiraled into broader, more intricate problems across its ecosystem, which could have been avoided with simpler existing technologies or better initial design.  
+
+Originally stated: “Can’t fix problems in a project? Increase the scope to make more problems elsewhere. Soon tentacles emerge, everything has problems, and your project doesn’t look as relatively bad.” (https://news.ycombinator.com/item?id=43852162#43855415)
+
+Cat in the Hat Engineering and Iatrogenic Engineering
+
+Ken Thompson and Rob Pike knew that VOOM was the answer to UTF-16.  
+
+## Iatrogenic Engineering
+### qbit and nrdxp, 20250926  
+
+A problematic engineering process wherein humanity develops a technology or system that inadvertently generates significant issues, prompting a cycle of further interventions to address the problems caused by the original creation. This results in increasing complications that could have been avoided by forgoing the problematic technology entirely and adopting existing, more effective substitutes. 
+
+The term encapsulates the spiraling consequences of attempting to resolve issues caused by a technology that should not have existed in the first place. 
+
+UTF-16 exemplifies iatrodysgenic engineering, as its adoption introduced persistent issues that required ongoing fixes, unnecessarily complicating systems when existing alternatives would have sufficed; it is a technology that should never have been created.  
+
+Originally stated: “Humanity creates something that causes problems .. then spirals out trying to fix problems created by the thing in the first place.”
+
+## Cat in the Hat Engineering and Iatrogenic Engineering
+In both Cat in the Hat Engineering and Iatrogenic Engineering, the complexity arising from over-engineering can be avoided by prioritizing existing technologies or solutions and focusing on robust initial designs. This approach minimizes technical debt, prevents cascading issues, and eliminates the need for superficially productive but ultimately ineffective engineering efforts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#############################
+#############################
+#############################
+# Questionable Words
+# Competable 
+09/14/2025 Jordan in conversation, Zach stopped the conversation pointing it out.
+Able to be competitive.  
+
+
+
+
+
+# Maliformant, malinforment 9/22/2025
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -683,7 +836,7 @@ Feasible: Under given conditions, likely to be possible without excessive or unf
 
 
 
-# The Devious Scale (Also called the Nefarious scale)
+# The Devious Scale (Also called the Nefarious scale) 2025/08/05
 glorious
 veracious
 righteous 
@@ -697,6 +850,7 @@ auspicious
 
 ambagious
 circuitous
+capricious
 mischievous 
 jeopardous
 precarious
@@ -806,11 +960,47 @@ cannot be taken or given by government, to advance and better themselves.
 
 
 
-# Words I pronounce (or used to pronounce) weird:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##############################
+##############################
+# Zachisms
+##############################
+##############################
+A Zachism is a word or phrase used in Zach's idiolect.
+
+This includes, but is not limited to solecism, malapropism, shibboleth, and neologisms.
+
+
+
+
+# Funny phrases
+I use "nephilim" as the hypernym of nephew and niece.
+
+
+# Words I pronounce, or used to pronounce, weirdly:
 English Word - Syllables    | Zami-ism Word -   Syllables
 -----------------------------------------------------------
-Boundary      3               "boundry",         2         
-Library       3               "Lie-barry"        2     
+Boundary             3        "boundry",         2
+Library              3        "Lie-barry"        2
+Narrated             3        "Narrarrated"      4
+Subterfuge           3        "Subterfug-ion"    4
+Locusts              2        "Lo-cu-susts"      3
+Refrigerator         5        "Fig-a-low"        3 (as a young child)
+
 
 
 
