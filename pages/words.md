@@ -300,6 +300,17 @@ Connotating, connotates, connotates - The word AI can rip the word connotating f
 bioavailable - 
 insularly - The ethno-cult worked insularly against the interests of the larger society. 
 incomputable - Turing showed that some problems are incomputable.
+doctrinally - What **IS** big is the rhetoric that the Bible has been translated "over and over again", which is just simply not true.  This falsehood has been taught by Mormons, doctrinally, for generations.  Modern translation are trustworthy, for the same logical reasons that we can trust genetics. (Biblical textual criticism is the academic precursor to genetics.) Also, when translators have doubt, they're really good about leaving footnotes.  Also, the oldest copy of the so-called "Hebrew Bible" is in **Greek** not Hebrew.  The entirety of the New Testament is in Greek.
+preestablished, pre-established - (First form is preferred): For Coze's integrity checking to be useful, key trust must be preestablished.
+decameter, hectometer, megameter, decimeter, - This is how retarded SI is, Google spellcheck doesn't even know the first units!!!!!  GAWD THIS IS RETARDED!
+Masoretic - The Greek Septuagint far predats the Hebrew Masoretic.  The oldest copy we have of the old testament, by far, is in Greek, not Hebrew.Yes, this is true even for Talmudic Jews: Their oldest copy of their own texts is written in Greek, not Hebrew. Further, even the Jewish holy book, the Talmud itself, is primarily in Aramaic, not Hebrew. Yes, this is true even for Talmudic Jews: Their oldest copy of their own texts is written in Greek, not Hebrew.  Further, even the Jewish holy book, the Talmud itself, is written primarily in Aramaic, not Hebrew.
+kompromat - It's just like we don't need the Epstein files to know that Epstein was an Israeli, Jewish Mossad spy whose operation was focused on creating kompromat for political reasons.  There's mountains of evidence; no objective person could claim otherwise.
+namespaced      - The variable "Coze" wasn't globally namespaced.
+Confusable      - The naming was easily
+checksumming    - There's no integrity check or other checksumming on this payload.
+Steelman        - There's a lot of people from New York that employ strawmans instead of steelman arguments. 
+Preestablished - Key trust must be preestablished or a coze's transport must be secure. pPreestablished trust must already exist somewhere in the stack.
+
 
 
 
@@ -442,8 +453,6 @@ axiomatic       - Self-evident or unquestionable.  I keep forgetting this one, l
 
 
 
-
-
 # STOP USING THEIR CORRUPTION OF LANGAUGE WORDS
 "Capitalism" - Rest in piss Marx, Long Live Free Markets.
 "Liberal" - LOL no you arn't, I'm a liberal.  Rest in piss FDR.
@@ -459,7 +468,10 @@ Autocrats, statists, authoritarians, despots, totalitarians, commies, marxists, 
 
 
 
-
+####################
+####################
+####################
+####################
 # Zami Words
 
 ## convolutional collapse
@@ -468,7 +480,7 @@ networked concepts due to a new understanding.
 Quick understanding, when a long series of concepts are networked together and
 things "make sense".   Like dominos finally falling, or a bolt of lightning.  
 
-## Vicarious Ego 
+## Vicarious Ego
 ~2012 (Mom invented term)
  - Soccer dads that get too invested beacuase they are living sports through their child.  
 
@@ -680,6 +692,59 @@ Originally stated: “Humanity creates something that causes problems .. then sp
 In both Cat in the Hat Engineering and Iatrogenic Engineering, the complexity arising from over-engineering can be avoided by prioritizing existing technologies or solutions and focusing on robust initial designs. This approach minimizes technical debt, prevents cascading issues, and eliminates the need for superficially productive but ultimately ineffective engineering efforts.
 
 
+# Maliformant, malinforment 20250925
+
+
+## Constructive Nullifcation 2026/01/05 nrdxp
+Constructive Nullifcation is the process whereby substantive legal rights (such as due process) are automatically and unconsciously violated by an apathetic procedural apparatus
+
+
+
+
+
+####################
+####################
+####################
+####################
+# Zami Definitions
+
+Stochastic terrorism: Agents in power allowing existing danger to grow and doing less than required to stop the violence.  
+
+Stochastic terrorism is taking advantage of latent violence to accomplish goals.
+Purposing acting, including through attrition or acts of omission, in a way that
+enables latent violence to be more successful is stochastic terrorism.  .
+For example, Team blue took advantage of stochastic terrorism by not reporting
+that a conference attendy had a gun.  They also didn't have enough people
+manning the metal detectors and knew with statistical certainty eventually a nut
+job would slip in.  
+
+# The Enemies of Liberty
+Statists, authoritarians, despots, totalitarians, commies, marxists, autocrats, kleptocrats, kakistocrats, dictators, and santimoniacs.
+
+
+# Concepts
+Cyclomatic complexity - a software metric used to indicate the complexity of a
+program. 
+
+Pigeonhole principle - In the domain of compression the pigeonhole
+principle states that for all compression algorithms, some outputs will be
+*larger* than the inputs. 
+
+euphemism treadmill   - euphemisms themselves become
+taboo words, so new ones are needed.  People that don't rage against this
+ridiculousness are dumb and generally uninteresting.  
+
+Toxic Compassion is the prioritization of short term emotional comfort over
+long-term outcomes
+
+Politically correct authoritarianism - https://www.scientificamerican.com/blog/beautiful-minds/the-personality-of-political-correctness/
+
+## Pareto principle
+Pareto principle: The Pareto principle states that for many outcomes, roughly 80% of consequences come from 20% of causes (the "vital few")
+
+
+### Nation
+A nation is an extended set of families who intermarry and seek the good life through common virtue - AuronMacintyre
 
 
 
@@ -687,9 +752,58 @@ In both Cat in the Hat Engineering and Iatrogenic Engineering, the complexity ar
 
 
 
+# Fun with Words.  
+
+
+## Possible, Plausible, Probable, Feasible
+Possible: Has the ability to be real under real conditions, regardless of how novel or mundane.
+
+Plausible: Has the ability to be a solution under a given condition, current ability, or normal conditions.
+
+Probable: A likely outcome with given or normal conditions.
+
+Feasible: Under given conditions, likely to be possible without excessive or unforeseen effort.
+
+"It's possible the engineer will report building the longer bridge is plausible, and it's probable the feds will issue a grant making its construction feasible".
 
 
 
+# The Devious Scale (Also called the Nefarious scale) 2025/08/05
+glorious
+veracious
+righteous 
+prodigious
+victorious
+marvelous
+portentous
+momentous
+propitious
+auspicious
+
+ambagious
+circuitous
+capricious
+mischievous 
+jeopardous
+precarious
+devious 
+disingenuous
+hazardous
+duplicitous
+dangerous
+inauspicious
+
+
+parlous
+perilous
+treacherous
+traitorous
+ominous
+insidious
+malicious 
+mendacious
+perfidious
+nefarious  
 
 
 
@@ -722,7 +836,7 @@ Able to be competitive.
 
 
 
-# Maliformant, malinforment 9/22/2025
+
 
 
 
@@ -775,103 +889,6 @@ I like gotten better, just like oxen.
 
 
 
-# Zami Definitions
-
-Stochastic terrorism: Agents in power allowing existing danger to grow and doing less than required to stop the violence.  
-
-Stochastic terrorism is taking advantage of latent violence to accomplish goals.
-Purposing acting, including through attrition or acts of omission, in a way that
-enables latent violence to be more successful is stochastic terrorism.  .
-For example, Team blue took advantage of stochastic terrorism by not reporting
-that a conference attendy had a gun.  They also didn't have enough people
-manning the metal detectors and knew with statistical certainty eventually a nut
-job would slip in.  
-
-# The Enemies of Liberty
-Statists, authoritarians, despots, totalitarians, commies, marxists, autocrats, kleptocrats, kakistocrats, dictators, and santimoniacs.
-
-
-# Concepts
-Cyclomatic complexity - a software metric used to indicate the complexity of a
-program. 
-
-Pigeonhole principle - In the domain of compression the pigeonhole
-principle states that for all compression algorithms, some outputs will be
-*larger* than the inputs. 
-
-euphemism treadmill   - euphemisms themselves become
-taboo words, so new ones are needed.  People that don't rage against this
-ridiculousness are dumb and generally uninteresting.  
-
-Toxic Compassion is the prioritization of short term emotional comfort over
-long-term outcomes
-
-Politically correct authoritarianism - https://www.scientificamerican.com/blog/beautiful-minds/the-personality-of-political-correctness/
-
-## Pareto principle
-Pareto principle: The Pareto principle states that for many outcomes, roughly 80% of consequences come from 20% of causes (the "vital few")
-
-
-
-
-
-
-
-
-
-# Fun with Words.  
-
-
-
-## Possible, Plausible, Probable, Feasible
-Possible: Has the ability to be real under real conditions, regardless of how novel or mundane.
-
-Plausible: Has the ability to be a solution under a given condition, current ability, or normal conditions.
-
-Probable: A likely outcome with given or normal conditions.
-
-Feasible: Under given conditions, likely to be possible without excessive or unforeseen effort.
-
-"It's possible the engineer will report building the longer bridge is plausible, and it's probable the feds will issue a grant making its construction feasible".
-
-
-
-# The Devious Scale (Also called the Nefarious scale) 2025/08/05
-glorious
-veracious
-righteous 
-prodigious
-victorious
-marvelous
-portentous
-momentous
-propitious
-auspicious
-
-ambagious
-circuitous
-capricious
-mischievous 
-jeopardous
-precarious
-devious 
-disingenuous
-hazardous
-duplicitous
-dangerous
-inauspicious
-
-
-parlous
-perilous
-treacherous
-traitorous
-ominous
-insidious
-malicious 
-mendacious
-perfidious
-nefarious  
 
 
 
@@ -992,14 +1009,16 @@ I use "nephilim" as the hypernym of nephew and niece.
 
 
 # Words I pronounce, or used to pronounce, weirdly:
+"Zachism"
 English Word - Syllables    | Zami-ism Word -   Syllables
 -----------------------------------------------------------
-Boundary             3        "boundry",         2
-Library              3        "Lie-barry"        2
-Narrated             3        "Narrarrated"      4
-Subterfuge           3        "Subterfug-ion"    4
-Locusts              2        "Lo-cu-susts"      3
-Refrigerator         5        "Fig-a-low"        3 (as a young child)
+Boundary             3        "boundry",            2
+Library              3        "Lie-barry"           2
+Narrated             3        "Narrarrated"         4
+Subterfuge           3        "Subterfug-ion"       4
+Locusts              2        "Lo-cu-susts"         3
+Refrigerator         5        "Fig-a-low"           3          (as a young child)
+concordance          3        "Con-cord-den-ance"   4          - noticed when I couldn't spell it properly.
 
 
 
