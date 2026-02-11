@@ -1,4 +1,53 @@
-# Words that the Google spellcheck says aren't words
+# Public Words that I like
+juristic, jurisdicts - juristic: legal right/authority/obligation; jurisdicts - the verb.  "The banana law by crazy politicians jurisdicts how software is allowed to present yellow colors."
+perturbation
+misanthropic    - disliking humankind and avoiding human society.
+adduce          - to bring forward in argument or as evidence; cite as pertinent or conclusive
+germane         - Relevant or foundational to an area of study.  
+Lügenpresse     - (German) the lying press, e.g. fake news.  
+metier          - an occupation or activity that one is good at.
+prattle         - talk at length in a foolish or inconsequential way.
+drivel          - talk nonsense.
+mendacity       - untruthfulness; lying.
+raison d'etre   - the most important reason or purpose for someone or something's existence.
+ceteris paribus - all things being equal
+post facto/post factum - After the fact.
+sophistry       - the use of fallacious arguments, especially with the intention of deceiving.
+Isomorphic      - Math functions, programs, philosophic ideas that are interchangeably equivalent (although they may require some conversion)
+Dialectic       - the art of investigating or discussing the truth of opinions.
+Megalomania     - obsession with the exercise of power, especially in the domination of others.
+profligacy      - reckless extravagance or wastefulness in the use of resources.
+erudition       - the quality of having or showing great knowledge or learning; scholarship.
+prima facie     - based on the first impression; accepted as correct until proved otherwise.
+priggishness    - one who offends or irritates by observance of proprieties (as of speech or manners) in a pointed manner or to an obnoxious degree
+foibles         - a minor weakness or eccentricity in someone's character.
+capricious      - given to sudden and unaccountable changes of mood or behavior.  "Base 10, used by mathematicians, is extremely capricious.  Base 12 all bases that are exponents of 2 are superiour."
+obviates        - In practice JSDoc rigid type documentation obviates TypeScript.  
+insuperable     - impossible to overcome.
+banal						- Which is pronounced, bay-nal, Barry.  :P
+demonym         - Name of a person of a place: Puebloan, Coloradan.  
+spendthrifts    - Someone who spends money extravagantly and wastefully, often to their own detriment. "I know a lot of female spendthrifts".
+axiomatic       - Self-evident or unquestionable.  I keep forgetting this one, leaning on "obvious" instead.
+Amathia         - ancient Greek term (ἀμαθία) for "willful ignorance" or "stupidity through refusal to learn," often linked to dogmatism and moral/ideological failure.
+Concision       - communication principle of eliminating redundancy, generally achieved by using as few words as possible in a sentence while preserving its meaning.
+vociferous      - marked by or given to vehement insistent outcry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Words that the Google/hunspell spellcheck says aren't words
 misconfiguration
 scalability
 preliminarily
@@ -310,10 +359,11 @@ Confusable      - The naming was easily
 checksumming    - There's no integrity check or other checksumming on this payload.
 Steelman        - There's a lot of people from New York that employ strawmans instead of steelman arguments. 
 Preestablished - Key trust must be preestablished or a coze's transport must be secure. pPreestablished trust must already exist somewhere in the stack.
-
-
-
-
+atomicity -    The atomicity of the database system was an important property.
+Methylcobalamin - Seriously Google?  The good B12.
+upgradable - 
+Minified - The javascript was minified
+Ashkenazi, Ashkenazis - 
 
 
 
@@ -408,6 +458,7 @@ malintent
 walkable
 interpersonally
 decentrally
+unioned - WTF
 
 
 
@@ -417,37 +468,7 @@ decentrally
 
 
 
-# Public Words that I like
-juristic
-perturbation
-misanthropic    - disliking humankind and avoiding human society.
-adduce          - to bring forward in argument or as evidence; cite as pertinent or conclusive
-germane         - Relevant or foundational to an area of study.  
-Lügenpresse     - (German) the lying press, e.g. fake news.  
-metier          - an occupation or activity that one is good at.
-prattle         - talk at length in a foolish or inconsequential way.
-drivel          - talk nonsense.
-mendacity       - untruthfulness; lying.
-raison d'etre   - the most important reason or purpose for someone or something's existence.
-ceteris paribus - all things being equal
-post facto/post factum - After the fact.
-sophistry       - the use of fallacious arguments, especially with the intention of deceiving.
-Isomorphic      - Math functions, programs, philosophic ideas that are interchangeably equivalent (although they may require some conversion)
-Dialectic       - the art of investigating or discussing the truth of opinions.
-Megalomania     - obsession with the exercise of power, especially in the domination of others.
-profligacy      - reckless extravagance or wastefulness in the use of resources.
-erudition       - the quality of having or showing great knowledge or learning; scholarship.
-prima facie     - based on the first impression; accepted as correct until proved otherwise.
-priggishness    - one who offends or irritates by observance of proprieties (as of speech or manners) in a pointed manner or to an obnoxious degree
-foibles         - a minor weakness or eccentricity in someone's character.
-capricious      - given to sudden and unaccountable changes of mood or behavior.  "Base 10, used by mathematicians, is extremely capricious.  Base 12 all bases that are exponents of 2 are superiour."
-obviates        - In practice JSDoc rigid type documentation obviates TypeScript.  
-insuperable     - impossible to overcome.
-banal						- Which is pronounced, bay-nal, Barry.  :P
-demonym         - Name of a person of a place: Puebloan, Coloradan.  
-spendthrifts    - Someone who spends money extravagantly and wastefully, often to their own detriment. "I know a lot of female spendthrifts".
-axiomatic       - Self-evident or unquestionable.  I keep forgetting this one, leaning on "obvious" instead.
-
+              
 
 
 
@@ -474,6 +495,11 @@ Autocrats, statists, authoritarians, despots, totalitarians, commies, marxists, 
 ####################
 # Zami Words
 
+## jurisdicts
+Time: long ago
+Jurisdicts is the verb form of jurisdiction.  "The banana law made by backstabbing politicians jurisdicts how software is allowed to present yellow colors."
+
+
 ## convolutional collapse
 The quick connecting of perviously not-tightly
 networked concepts due to a new understanding.  
@@ -486,7 +512,7 @@ things "make sense".   Like dominos finally falling, or a bolt of lightning.
 
 ## Computerware 
 ~2014 
-All hardware and software components of a computer system.
+All hardware and software components of a computer system. Computerware is the hypernym of hardware and software.
 The StrawRaspBananaBerry pie mini computer is a fully open source device as all computerware is under a GPL 2.0 license.
 
 ## Masterbet
@@ -699,6 +725,14 @@ In both Cat in the Hat Engineering and Iatrogenic Engineering, the complexity ar
 Constructive Nullifcation is the process whereby substantive legal rights (such as due process) are automatically and unconsciously violated by an apathetic procedural apparatus
 
 
+# elidation 20260211
+The act or result of shortening a long string, identifier, hash, signature, token, or other payload by retaining only its initial segment (typically the first few characters) and replacing the omitted remainder with an ellipsis ("…"), for purposes of brevity, readability, or display constraints while still conveying recognizability.  Example: The full signature "OJ4_timgp-wxpLF3hllrbe55wdjhzGOLgRYsGO1BmIMYbo4VKAdgZHnYyIU907ZTJkVr8B81A2K8U4nQA6ONEg" is commonly represented via elidation as "OJ4_ti…"
+
+Etymology: Blend of elide (to omit or suppress, from Latin ēlīdere "to strike out") + elision (the linguistic/typographic act of omission) + -ation (forming a noun of action or result), coined to distinguish this precise visual/textual truncation pattern from general truncation, abbreviation, or ellipsization.
+
+
+
+
 
 
 
@@ -718,11 +752,11 @@ that a conference attendy had a gun.  They also didn't have enough people
 manning the metal detectors and knew with statistical certainty eventually a nut
 job would slip in.  
 
-# The Enemies of Liberty
+## The Enemies of Liberty
 Statists, authoritarians, despots, totalitarians, commies, marxists, autocrats, kleptocrats, kakistocrats, dictators, and santimoniacs.
 
 
-# Concepts
+## Concepts
 Cyclomatic complexity - a software metric used to indicate the complexity of a
 program. 
 
@@ -744,7 +778,58 @@ Pareto principle: The Pareto principle states that for many outcomes, roughly 80
 
 
 ### Nation
-A nation is an extended set of families who intermarry and seek the good life through common virtue - AuronMacintyre
+A nation is an extended set of families who share common values and virtue, intermarry, and together seek a good life.
+
+A nation amplifies latent values and protects their own from external threats, sabotage, subterfuge, and subversion. An ideal nation specializes the social task of punishing exploitation, deception, and parasitism by cultivating norms that reward virtue while shaming and sanctioning vice.  A nation acts in the best interests of the whole, not an insular kabal.
+
+This specialization frees families to focus on flourishing: nurturing children, building character, transmitting excellence, and sustaining intergenerational bonds.
+
+A nation is ultimately realized by high-trust civilization where kinsmen cooperate in liberty and progress the human condition.
+
+
+
+
+A nation is not government or ideology, but an organic extension of the family.  It is sustained by intermarriage, common pursuit of virtue, and the shared quest for the good life across generations.
+
+The attempts to destroy us as a people is being made by insular ethnic people who want to destroy the American nation because they hate our virtue. This is an ancient hatred made by a insular people who slowly over time have sought our destruction.
+
+
+
+
+
+
+### Canonicalization
+In computer science, canonicalization is the process of converting data that has
+more than one possible representation into a single, standard, preferred,
+canonical form. The goal is usually to ensure that equivalent data (data that
+means or refers to the same thing) is represented in exactly the same way,
+making it much easier to compare values for equality, eliminate duplicates,
+index data efficiently, and avoid subtle bugs or security vulnerabilities.
+Additionally, a well-ordered canonical representation enables efficient
+algorithms like binary search.
+
+
+Canonicalization is compared to normalization that may define some
+standardization, but not necessarily one prefferred standard form.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -997,10 +1082,9 @@ cannot be taken or given by government, to advance and better themselves.
 # Zachisms
 ##############################
 ##############################
-A Zachism is a word or phrase used in Zach's idiolect.
+A Zachism is a word or phrase used in Zach's idiolect. This includes, but is not limited to solecism, malapropism, shibboleth, and neologisms.
 
-This includes, but is not limited to solecism, malapropism, shibboleth, and neologisms.
-
+- breathtakingly - is actually a word, but uncommon.
 
 
 
