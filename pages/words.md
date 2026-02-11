@@ -363,8 +363,8 @@ atomicity -    The atomicity of the database system was an important property.
 Methylcobalamin - Seriously Google?  The good B12.
 upgradable - 
 Minified - The javascript was minified
-Ashkenazi, Ashkenazis - 
-
+Ashkenazi, Ashkenazis - Actually submitted this one. 
+recognizability
 
 
 
@@ -718,15 +718,19 @@ Originally stated: “Humanity creates something that causes problems .. then sp
 In both Cat in the Hat Engineering and Iatrogenic Engineering, the complexity arising from over-engineering can be avoided by prioritizing existing technologies or solutions and focusing on robust initial designs. This approach minimizes technical debt, prevents cascading issues, and eliminates the need for superficially productive but ultimately ineffective engineering efforts.
 
 
-# Maliformant, malinforment 20250925
+## Maliformant, malinforment 20250925
 
 
 ## Constructive Nullifcation 2026/01/05 nrdxp
 Constructive Nullifcation is the process whereby substantive legal rights (such as due process) are automatically and unconsciously violated by an apathetic procedural apparatus
 
 
-# elidation 20260211
-The act or result of shortening a long string, identifier, hash, signature, token, or other payload by retaining only its initial segment (typically the first few characters) and replacing the omitted remainder with an ellipsis ("…"), for purposes of brevity, readability, or display constraints while still conveying recognizability.  Example: The full signature "OJ4_timgp-wxpLF3hllrbe55wdjhzGOLgRYsGO1BmIMYbo4VKAdgZHnYyIU907ZTJkVr8B81A2K8U4nQA6ONEg" is commonly represented via elidation as "OJ4_ti…"
+## elidation 20260211
+The act or result of shortening a long string, identifier, hash, signature, token, or other payload by retaining only its initial segment (typically the first few characters) and replacing the omitted remainder with an ellipsis ("…"), for purposes of brevity, readability, or display constraints while still conveying recognizability.  In short, an elidation is created through truncation and appending an ellipsis.
+
+Example: The full signature "OJ4_timgp-wxpLF3hllrbe55wdjhzGOLgRYsGO1BmIMYbo4VKAdgZHnYyIU907ZTJkVr8B81A2K8U4nQA6ONEg" is commonly represented via elidation as "OJ4_ti…"
+
+Example sentence: "For space reasons, we display the API key via elidation: the first 6 characters followed by an ellipsis."
 
 Etymology: Blend of elide (to omit or suppress, from Latin ēlīdere "to strike out") + elision (the linguistic/typographic act of omission) + -ation (forming a noun of action or result), coined to distinguish this precise visual/textual truncation pattern from general truncation, abbreviation, or ellipsization.
 
