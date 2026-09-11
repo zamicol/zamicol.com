@@ -1,6 +1,13 @@
 # Boycott
 
 
+# The New York Times (NYT)
+The New York Times covered up the Holodomor.
+
+Their response to covering up the 7 million person genocide was "whoops".
+
+We should hold a Nuremberg trial for their leadership.
+
 
 ## Israel and any Zionist connected movement
 ### Alternative: Don't buy diamonds, Israel's #1 export.
@@ -14,6 +21,8 @@ political rights, and national aspirations.
 This included many Palestinian Christians.
 
 Now Israel is executing the Gaza Holocaust.
+
+
 
 
 # Namecheap

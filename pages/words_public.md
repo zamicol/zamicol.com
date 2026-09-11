@@ -1,0 +1,1 @@
+/home/z/.dotfiles/private/docs/000_words_public.md
