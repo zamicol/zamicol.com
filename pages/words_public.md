@@ -6,8 +6,8 @@ juristic, jurisdicts - juristic: legal right/authority/obligation; jurisdicts - 
 perturbation
 misanthropic    - disliking humankind and avoiding human society.
 adduce          - to bring forward in argument or as evidence; cite as pertinent or conclusive
-germane         - Relevant or foundational to an area of study.  
-Lügenpresse     - (German) the lying press, e.g. fake news.  
+germane         - Relevant or foundational to an area of study.
+Lügenpresse     - (German) the lying press, e.g. fake news.
 metier          - an occupation or activity that one is good at.
 prattle         - talk at length in a foolish or inconsequential way.
 drivel          - talk nonsense.
@@ -24,7 +24,7 @@ erudition       - the quality of having or showing great knowledge or learning; 
 prima facie     - based on the first impression; accepted as correct until proved otherwise.
 priggishness    - one who offends or irritates by observance of proprieties (as of speech or manners) in a pointed manner or to an obnoxious degree
 foibles         - a minor weakness or eccentricity in someone's character.
-capricious      - given to sudden and unaccountable changes of mood or behavior.  "Base 10, used by mathematicians, is extremely capricious.  Base 12 all bases that are exponents of 2 are superiour."
+capricious      - given to sudden and unaccountable changes of mood or behavior.  "Base 10, used by mathematicians, is extremely capricious.  Base 12 all bases that are exponents of 2 are superior."
 obviates        - In practice JSDoc rigid type documentation obviates TypeScript.  
 insuperable     - impossible to overcome.
 banal						- Which is pronounced, bay-nal, Barry.  :P
@@ -46,77 +46,7 @@ Treachery       - The violation of allegiance and the betrayal of trust. An act 
 Morpheme        - the informational atom of language.  Thanks Connect.
 
 
-## Public Words that I hate 
-- "In-P" words, "imp labial constant in nasal place assimilation regression" (20260727): 
 
-Rant: We already have universal morphemes for "not", it's "in" or "un", and in this case the intention is "in".  The "imp labial constant in nasal place assimilation regression" dogma seems silly, especially for "p". It's not hard to enunciate. "inm" makes sense to me since "n" and "m" are close sounds. "n" and "p" are far apart sounds, and only mumbling would convolute the two. Yes, it is regressive! For example, **inprecise** is precise!  "imp" is literally the opposite of being precise, tragic lexical irony.
-
-I'm immune against the "imp labial constant nasal place assimilation regression".  I pronounce all of these with the "n" sound. It's one of the reasons why people think I have an accent. For example, I say "inprecise" instead of "imprecise", which causes me great pain to hear.
-
-  - impalpable (impalpability, impalpably); inpalpable  
-  - impartial (impartiality, impartially); inpartial  
-  - impassable (impassability, impassably); inpassable  
-  - impassible (impassibility, impassibly); inpassible  
-  - impassive (impassivity, impassively); inpassive  
-  - impatient (impatience, impatiently); inpatient  
-  - impeccable (impeccability, impeccably); inpeccable  
-  - impecunious (impecuniosity, impecuniously); inpecunious  
-  - impenetrable (impenetrability, impenetrably); inpenetrable  
-  - imperceptible (imperceptibility, imperceptibly); inperceptible  
-  - imperfect (imperfection, imperfectly); inperfect  
-  - imperishable (imperishability, imperishably); inperishable  
-  - impermeable (impermeability, impermeably); inpermeable  
-  - impersonal (impersonality, impersonally); inpersonal  
-  - impertinent (impertinence, impertinently); inpertinent  
-  - imperturbable (imperturbability, imperturbably); inperturbable  
-  - impervious (imperviousness, imperviously); inpervious  
-  - impious (impiety, impiously); inpious  
-  - implacable (implacability, implacably); inplacable  
-  - implausible (implausibility, implausibly); inplausible  
-  - impolite (impoliteness, impolitely); inpolite  
-  - imponderable (imponderability, imponderably); inponderable  
-  - impossible (impossibility, impossibly); inpossible  
-  - impotent (impotence, impotently); inpotent  
-  - impractical (impracticality, impractically); inpractical  
-  - imprecise (imprecision, imprecisely); inprecise  
-  - improbable (improbability, improbably); inprobable  
-  - improper (impropriety, improperly); inproper  
-  - improvident (improvidence, improvidently); inprovident  
-  - imprudent (imprudence, imprudently); inprudent  
-  - impure (impurity, impurely); inpure  
-  - impudent (impudence, impudently); inpudent  
-  - impregnable (impregnability, impregnably); inpregnable
-
-
-
-Counter examples:
-
-This is how it sounds to me when people talk like that:
-"Your tires are umbalanced"
-"Em my opinion, cilantro is umpleasant"
-"Your seat in the theater is imbetween us"
-"The imput of the program is your keyboard"
-"My im-laws are coming to Colorado for Christmas"
-"Did you see my email in your imbox?"
-"I'm reading Twitter from em bed"
-"I wear pajamas im public."
-"Do you want to go to lunch were we can talk about it em person?"
-
-unbalanced (umbalanced)
-In my (Em my)
-unpleasant (umpleasant)
-in between (imbetween)
-input (imput)
-in-laws (im-laws)
-inbox (imbox)
-in bed (em bed)
-in public (im public)
-in person (im person)
-
-"You're from Pueblo?"
-"Yes, I'm from Pueblo."
-"But where did you get your accent?"
-"I popped out this way."
 
 
 # Words that the Google/hunspell spellcheck says aren't words
@@ -448,9 +378,9 @@ Talmudism, Talmudic - Talmudism is a new religion, younger than Christianity.
 Levitical - The 10 commandments are Levitical, not Jewish.
 Quantifiably - Massasoits 1/1024 progenitorial contribution is quantifiably small.
 overspecified - Bitcoin/Blockchain is overspecified for the application of identity for the Internet
-
-
-
+villainize - If you want to radicalize Americans, a great way to do it is for the media to villainize ethnic Americans in their own home.
+undecidability - TUring undecidability
+Unprovably - NOT unprovable.  "As more classical problems were proven to be unprovably true, some mathematicians worried they were finished." https://www.youtube.com/watch?v=I4pQbo5MQOs
 
 
 
@@ -919,12 +849,30 @@ An example:
 
 
 
+# monognosis
+## nrdcp 20260923
+1.A small period of time after one makes a major discovery and they are essentially the only person in the world who knows the discovery, until it is finally published and recognized.
+2. When only one person knowns something true.
+https://x.com/nrdqed/status/2102872995853406543
 
 
 
+# Soulnit
+## zamicol 20261002
+A profound, yet platonic love between two men. Knitted souls. "Would immediately
+lay one's life down for the other". Recalls David and Johnathan.
+
+Also thought of: 
+- "fidus Achate" from Virgil's Aeneid
+- Agapeson, pronounced: "A-gap-son" 
 
 
-
+# Gödel complete
+## zamicol 20261006
+Like Turing complete.  Axiomatic systems that are complete, meaning that they
+are not incomplete. Many people get this confused: Gödel's incompletness theorem
+does not say all axiomatic systems are incomplete.  It says only some axiomatic
+systems are compelte.  Presburger arithmetic is "Gödel complete".
 
 
 
@@ -942,11 +890,24 @@ An example:
 ####################
 # Zami Definitions
 
-Stochastic terrorism: Agents in power allowing existing danger to grow and doing less than required to stop the violence.  
+## Ethnic American
+An ethnic American is an American, with emphasis on heritage Americans, who themselves were largely of Anglo-Saxon stock.
+Ethnic American also emphasises that the nation of America is not the same thing as our government. 
+
+What's the difference between the American nation and the US goverment?
+
+The American nation is a people. Our nation is our people.  Our people exists without the permission or 
+
+Our government is corrupt, vile, and controlled by an insular, adversarial foreign nation.
+
+
+
+## Stochastic terrorism
+Agents in power allowing existing danger to grow and doing less than required to stop the violence.
 
 Stochastic terrorism is taking advantage of latent violence to accomplish goals.
 Purposing acting, including through attrition or acts of omission, in a way that
-enables latent violence to be more successful is stochastic terrorism.  .
+enables latent violence to be more successful is stochastic terrorism.
 For example, Team blue took advantage of stochastic terrorism by not reporting
 that a conference attendy had a gun.  They also didn't have enough people
 manning the metal detectors and knew with statistical certainty eventually a nut
@@ -1105,7 +1066,77 @@ nefarious
 
 
 
+## Public Words that I hate 
+- "In-P" words, "imp labial constant in nasal place assimilation regression" (20260727): 
 
+Rant: We already have universal morphemes for "not", it's "in" or "un", and in this case the intention is "in".  The "imp labial constant in nasal place assimilation regression" dogma seems silly, especially for "p". It's not hard to enunciate. "inm" makes sense to me since "n" and "m" are close sounds. "n" and "p" are far apart sounds, and only mumbling would convolute the two. Yes, it is regressive! For example, **inprecise** is precise!  "imp" is literally the opposite of being precise, tragic lexical irony.
+
+I'm immune against the "imp labial constant nasal place assimilation regression".  I pronounce all of these with the "n" sound. It's one of the reasons why people think I have an accent. For example, I say "inprecise" instead of "imprecise", which causes me great pain to hear.
+
+  - impalpable (impalpability, impalpably); inpalpable  
+  - impartial (impartiality, impartially); inpartial  
+  - impassable (impassability, impassably); inpassable  
+  - impassible (impassibility, impassibly); inpassible  
+  - impassive (impassivity, impassively); inpassive  
+  - impatient (impatience, impatiently); inpatient  
+  - impeccable (impeccability, impeccably); inpeccable  
+  - impecunious (impecuniosity, impecuniously); inpecunious  
+  - impenetrable (impenetrability, impenetrably); inpenetrable  
+  - imperceptible (imperceptibility, imperceptibly); inperceptible  
+  - imperfect (imperfection, imperfectly); inperfect  
+  - imperishable (imperishability, imperishably); inperishable  
+  - impermeable (impermeability, impermeably); inpermeable  
+  - impersonal (impersonality, impersonally); inpersonal  
+  - impertinent (impertinence, impertinently); inpertinent  
+  - imperturbable (imperturbability, imperturbably); inperturbable  
+  - impervious (imperviousness, imperviously); inpervious  
+  - impious (impiety, impiously); inpious  
+  - implacable (implacability, implacably); inplacable  
+  - implausible (implausibility, implausibly); inplausible  
+  - impolite (impoliteness, impolitely); inpolite  
+  - imponderable (imponderability, imponderably); inponderable  
+  - impossible (impossibility, impossibly); inpossible  
+  - impotent (impotence, impotently); inpotent  
+  - impractical (impracticality, impractically); inpractical  
+  - imprecise (imprecision, imprecisely); inprecise  
+  - improbable (improbability, improbably); inprobable  
+  - improper (impropriety, improperly); inproper  
+  - improvident (improvidence, improvidently); inprovident  
+  - imprudent (imprudence, imprudently); inprudent  
+  - impure (impurity, impurely); inpure  
+  - impudent (impudence, impudently); inpudent  
+  - impregnable (impregnability, impregnably); inpregnable
+
+
+
+Counter examples:
+
+This is how it sounds to me when people talk like that:
+"Your tires are umbalanced"
+"Em my opinion, cilantro is umpleasant"
+"Your seat in the theater is imbetween us"
+"The imput of the program is your keyboard"
+"My im-laws are coming to Colorado for Christmas"
+"Did you see my email in your imbox?"
+"I'm reading Twitter from em bed"
+"I wear pajamas im public."
+"Do you want to go to lunch were we can talk about it em person?"
+
+unbalanced (umbalanced)
+In my (Em my)
+unpleasant (umpleasant)
+in between (imbetween)
+input (imput)
+in-laws (im-laws)
+inbox (imbox)
+in bed (em bed)
+in public (im public)
+in person (im person)
+
+"You're from Pueblo?"
+"Yes, I'm from Pueblo."
+"But where did you get your accent?"
+"I popped out this way."
 
 
 
@@ -1163,11 +1194,15 @@ In lieu of that, here's some fixes of a written language that desperately needs 
 ## Filipino/Philippines
 It should either be "The Felipines" or the demonym should be "Philipino".  
 
-Using a Greek root (Philippus) for a Spanish name (Felipe) is silly, causing two issues: the Ph/F and the p/pp.  Filipino is the most correct, so it should be the Felipines or Filipines.
+Using a Greek root (Philippus) for a Spanish name (Felipe) is silly, causing two
+issues: the Ph/F and the p/pp.  Filipino is the most correct, so it should be
+the Felipines or Filipines.
 
 
 # ACTION (in physics)
-Computation is the result of intentional state change. State change in such context is correctly named "action". Although the polysemous "action" is overloaded in physics, this is the most correct context for the word.
+Computation is the result of intentional state change. State change in such
+context is correctly named "action". Although the polysemous "action" is
+overloaded in physics, this is the most correct context for the word.
 
 
 # "Yours" and "Ours" need apostrophes
