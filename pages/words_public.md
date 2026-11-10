@@ -483,18 +483,16 @@ uncalculated - WTF.
 
 
 # STOP USING THEIR CORRUPTION OF LANGAUGE WORDS
-"Capitalism" - Rest in piss Marx, Long Live Free Markets.
-"Liberal" - LOL no you arn't, I'm a liberal.  Rest in piss FDR.
-"Fascists" - LOL, look at a Mercury dime, look behind the Speaker.  Rest in piss Bolsheviks.
+- "Capitalism" - Rest in piss Marx, Long Live Free Markets.  Long live Europe.
+  Long live beauty, family, virtue, hard work, true progress, science.
+ - "Liberal" - LOL no you arn't, I'm a liberal.  Rest in piss FDR.
+ - "Fascists" - LOL, look at a Mercury dime, look behind the US House Speaker.
+   Rest in piss Bolsheviks.
 
-
-
-
-# Political Words:
-Autocrats, statists, authoritarians, despots, totalitarians, commies, marxists, autocrats, kleptocrats, kakistocrats, dictators, and santimoniacs.
-
-
-
+# Political Words
+## Enemies of Liberty
+Autocrats, statists, authoritarians, despots, totalitarians, commies, marxists,
+autocrats, kleptocrats, kakistocrats, dictators, and santimoniacs.
 
 
 ####################
@@ -891,30 +889,32 @@ systems are compelte.  Presburger arithmetic is "Gödel complete".
 # Zami Definitions
 
 ## Ethnic American
-An ethnic American is an American, with emphasis on heritage Americans, who themselves were largely of Anglo-Saxon stock.
-Ethnic American also emphasises that the nation of America is not the same thing as our government. 
+An ethnic American is an American, with emphasis on heritage Americans, who
+themselves were largely of Anglo-Saxon stock. Ethnic American also emphasises
+that the nation of America is not the same thing as our government. 
 
 What's the difference between the American nation and the US goverment?
 
-The American nation is a people. Our nation is our people.  Our people exists without the permission or 
+The American nation is a people. Our nation is our people.  Our people exists
+without the permission or 
 
-Our government is corrupt, vile, and controlled by an insular, adversarial foreign nation.
-
+Our government is corrupt, vile, and controlled by an insular, adversarial
+foreign nation.
 
 
 ## Stochastic terrorism
-Agents in power allowing existing danger to grow and doing less than required to stop the violence.
+Agents in power allowing existing danger to grow and doing less than required to
+stop the violence.
 
 Stochastic terrorism is taking advantage of latent violence to accomplish goals.
 Purposing acting, including through attrition or acts of omission, in a way that
-enables latent violence to be more successful is stochastic terrorism.
-For example, Team blue took advantage of stochastic terrorism by not reporting
-that a conference attendy had a gun.  They also didn't have enough people
-manning the metal detectors and knew with statistical certainty eventually a nut
-job would slip in.  
+enables latent violence to be more successful is stochastic terrorism. For
+example, Team blue took advantage of stochastic terrorism by not reporting that
+a conference attendy had a gun.  They also didn't have enough people manning the
+metal detectors and knew with statistical certainty eventually a nut job would
+slip in.  
 
-## The Enemies of Liberty
-Statists, authoritarians, despots, totalitarians, commies, marxists, autocrats, kleptocrats, kakistocrats, dictators, and santimoniacs.
+
 
 
 ## Concepts
